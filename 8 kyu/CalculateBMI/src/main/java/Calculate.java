@@ -11,6 +11,6 @@ if bmi > 30 return "Obese"*/
 public class Calculate {
   public static String bmi(double weight, double height) {
     double res= weight/(height*height);
-    return res<=18.5? "Underweight": res<=25.0? "Normal": res<=30.0? "Overweight":"Obese" ;
+    return  res<=18.5? "Underweight": res<=25.0? "Normal": res<=30.0? "Overweight":"Obese" ;
   }
 }

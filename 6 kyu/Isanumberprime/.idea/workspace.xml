@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5695237-4c70-4797-b321-d487a3e7ebd0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CamelCaseMethod/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamelCaseMethod/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamelCaseMethod/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamelCaseMethod/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamelCaseMethod/CamelCaseMethod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamelCaseMethod/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamelCaseMethod/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamelCaseMethod/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Convertstringtocamelcase/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Convertstringtocamelcase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Convertstringtocamelcase/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Convertstringtocamelcase/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountingDuplicates/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountingDuplicates/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountingDuplicates/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountingDuplicates/src/main/java/CountingDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountingDuplicates/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecodetheMorsecode/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecodetheMorsecode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecodetheMorsecode/src/main/java/MorseCodeDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecodetheMorsecode/src/test/java/MorseCodeDecoderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FindTheParityOutlier/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FindTheParityOutlier/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FindTheParityOutlier/src/main/java/FindOutlier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FindTheParityOutlier/src/test/java/OutlierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Findtheoddint/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Findtheoddint/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Findtheoddint/src/main/java/FindOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Findtheoddint/src/test/java/FindOddTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PrimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersistentBugger/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersistentBugger/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersistentBugger/src/main/java/Persist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersistentBugger/src/test/java/PersistTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StopgninnipSMysdroW/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StopgninnipSMysdroW/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StopgninnipSMysdroW/src/main/java/SpinWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StopgninnipSMysdroW/src/test/java/SpinWordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yourorderplease/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yourorderplease/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yourorderplease/src/main/java/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yourorderplease/src/test/java/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Arethenumbersinorder/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Arethenumbersinorder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Arethenumbersinorder/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Arethenumbersinorder/src/test/java/SampleTestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/CaffeineScript/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/CaffeineScript/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/CaffeineScript/src/main/java/CaffeineBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/CaffeineScript/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Checktheexam/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Checktheexam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Checktheexam/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Checktheexam/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Dontgivemefive/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Dontgivemefive/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Dontgivemefive/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Dontgivemefive/src/test/java/KataTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Finddivisorsofanumber/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Finddivisorsofanumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Finddivisorsofanumber/src/main/java/FindDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Finddivisorsofanumber/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findthenextperfectsquare/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findthenextperfectsquare/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findthenextperfectsquare/src/main/java/NumberFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findthenextperfectsquare/src/test/java/FindNextSquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findthestraynumber/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findthestraynumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findthestraynumber/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findthestraynumber/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Isthisatriangle/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Isthisatriangle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Isthisatriangle/src/main/java/TriangleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Isthisatriangle/src/test/java/TriangleTesterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Makeafunctionthatdoesarithmetic/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Makeafunctionthatdoesarithmetic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Makeafunctionthatdoesarithmetic/src/main/java/ArithmeticFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Makeafunctionthatdoesarithmetic/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/MaximumLengthDifference/src/main/java/MaxDiffLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/MaximumLengthDifference/src/test/java/MaxDiffLengthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/MoneyMoneyMoney/src/test/java/MoneyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/NumberofPeopleintheBus/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/NumberofPeopleintheBus/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/NumberofPeopleintheBus/src/main/java/Metro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/NumberofPeopleintheBus/src/test/java/MetroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/OddorEven/src/main/java/Codewars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/OnesandZeros/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/OnesandZeros/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/OnesandZeros/src/main/java/BinaryArrayToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/OnesandZeros/src/test/java/BinaryArrayToNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Reversewords/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Reversewords/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Reversewords/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Reversewords/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Sortarrays1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Sortarrays1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Sortarrays1/src/main/java/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Sortarrays1/src/test/java/SortArrayTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/SorttheGiftCode/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/SorttheGiftCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/SorttheGiftCode/src/main/java/GiftSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/SorttheGiftCode/src/test/java/GiftSorterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Stringendswith/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Stringendswith/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Stringendswith/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Stringendswith/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Sumofnumbersfrom0toN/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Sumofnumbersfrom0toN/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Sumofnumbersfrom0toN/src/main/java/SequenceSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Sumofnumbersfrom0toN/src/test/java/SequenceSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Sumofoddnumbers/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Sumofoddnumbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Sumofoddnumbers/src/main/java/RowSumOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Sumofoddnumbers/src/test/java/RowSumOddNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/SumofthefirstnthtermofSeries/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/SumofthefirstnthtermofSeries/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/SumofthefirstnthtermofSeries/src/main/java/NthSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/SumofthefirstnthtermofSeries/src/test/java/NthSeriesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Thehighestprofitwins/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Thehighestprofitwins/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Thehighestprofitwins/src/main/java/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Thehighestprofitwins/src/test/java/MinMaxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/TriangularTreasure/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/TriangularTreasure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/TriangularTreasure/src/main/java/Triangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/TriangularTreasure/src/test/java/Triangular_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Twofightersonewinner/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Twofightersonewinner/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Twofightersonewinner/src/main/java/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Twofightersonewinner/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Twofightersonewinner/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Ifyoucantsleepjustcountsheep/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Ifyoucantsleepjustcountsheep/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Ifyoucantsleepjustcountsheep/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Ifyoucantsleepjustcountsheep/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Totalamountofpoints/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Totalamountofpoints/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Totalamountofpoints/src/main/java/TotalPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Totalamountofpoints/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Tribonacci Sequence/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Tribonacci Sequence/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Tribonacci Sequence/src/main/java/Xbonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Tribonacci Sequence/src/test/java/XbonacciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mumbling/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mumbling/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mumbling/src/main/java/Accumul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mumbling/src/test/java/AccumulTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/AllStarCodeChallenge18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/AllStarCodeChallenge18/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/CalculateBMI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/CalculateBMI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/CalculateBMI/src/main/java/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/CalculateBMI/src/main/java/Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/CalculateBMI/target/classes/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Findthefirstnonconsecutivenumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Findthefirstnonconsecutivenumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/SwapValues/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/SwapValues/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="663265823">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="189" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="189" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Prime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="13" selection-start-line="13" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PrimeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../FlappyBird-master/FlappyBird-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../java/projects/FlappyBird" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/PrimeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Prime.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Isanumberprime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isanumberprime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isanumberprime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isanumberprime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isanumberprime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isanumberprime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isanumberprime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isanumberprime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562316064469" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PrimeTest.testBasic">
+    <configuration name="PrimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Isanumberprime" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrimeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeTest.testBasic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Isanumberprime" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrimeTest" />
+      <option name="METHOD_NAME" value="testBasic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.PrimeTest" />
+      <item itemvalue="JUnit.PrimeTest.testBasic" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PrimeTest.testBasic" />
+        <item itemvalue="JUnit.PrimeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5695237-4c70-4797-b321-d487a3e7ebd0" name="Default Changelist" comment="" />
+      <created>1562249709227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562249709227</updated>
+      <workItem from="1562249711839" duration="4159000" />
+      <workItem from="1562744800303" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PrimeTest - 2019.07.04 at 17h 33m 25s.xml">
+      <configuration name="PrimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest - 2019.07.04 at 17h 33m 28s.xml">
+      <configuration name="PrimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest - 2019.07.04 at 17h 33m 38s.xml">
+      <configuration name="PrimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest - 2019.07.04 at 17h 39m 22s.xml">
+      <configuration name="PrimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest - 2019.07.05 at 11h 14m 29s.xml">
+      <configuration name="PrimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest - 2019.07.05 at 11h 14m 58s.xml">
+      <configuration name="PrimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest - 2019.07.05 at 11h 17m 10s.xml">
+      <configuration name="PrimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest - 2019.07.05 at 11h 18m 56s.xml">
+      <configuration name="PrimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest - 2019.07.05 at 11h 27m 32s.xml">
+      <configuration name="PrimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest_testBasic - 2019.07.05 at 11h 27m 49s.xml">
+      <configuration name="PrimeTest.testBasic" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4198000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Prime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="13" selection-start-line="13" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PrimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
