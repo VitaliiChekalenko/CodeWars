@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e21b495a-be7b-418f-a4f0-d7ae96f5d3f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegexvalidatePINcode/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegexvalidatePINcode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegexvalidatePINcode/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegexvalidatePINcode/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createPhoneNumber/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createPhoneNumber/.idea/libraries/junit_junit_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createPhoneNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createPhoneNumber/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createPhoneNumber/src/test/java/PhoneExampleTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/src/main/java/DnaStrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/src/test/java/DnaStrandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/src/main/java/Troll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/src/test/java/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/src/main/java/XO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/src/test/java/FindUniqTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/src/test/java/MiddleExampleTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/src/test/java/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/src/main/java/JadenCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/src/test/java/JadenCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Mumbling/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Mumbling/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Mumbling/src/main/java/Accumul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Mumbling/src/test/java/AccumulTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/src/main/java/SquareDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/src/test/java/SquareDigitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/VowelCount/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/VowelCount/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/VowelCount/src/main/java/Vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/VowelCount/src/test/java/VowelsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Youreasquare/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Youreasquare/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Youreasquare/src/main/java/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Youreasquare/src/test/java/SquareTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="42" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#1280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/PrinterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Printer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="14" />
+    <option name="y" value="28" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555417555740" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PrinterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PrinterErrors" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrinterTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PrinterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e21b495a-be7b-418f-a4f0-d7ae96f5d3f4" name="Default Changelist" comment="" />
+      <created>1555416946272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555416946272</updated>
+      <workItem from="1555416949696" duration="894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PrinterTest - 2019.04.16 at 15h 24m 41s.xml">
+      <configuration name="PrinterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrinterTest - 2019.04.16 at 15h 25m 49s.xml">
+      <configuration name="PrinterTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="894000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#1280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

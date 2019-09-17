@@ -17,26 +17,25 @@ class Persist {
 
     public static int counter = 0;
 
-    public static void sum(long m) {
-        String[] s = (m + "").split("");
+
+    public static int persistence(long n) {
+        if (n < 10) {
+            int sum = counter;
+            counter = 0;
+            return sum;
+        }
+        String[] s = (n + "").split("");
         ArrayList<Integer> str = new ArrayList<Integer>();
         for (int i = 0; i < s.length; i++) {
             str.add(Integer.parseInt(s[i]));
         }
-        m = str.stream().mapToInt(a -> a).reduce(1, (a, b) -> a * b);
+        n = str.stream().mapToInt(a -> a).reduce(1, (a, b) -> a * b);
 
         counter++;
+        str.clear();
 
-        if (m > 9) {
-            str.clear();
-            sum(m);
-        }
-    }
+        return persistence(n);
 
-    public static int persistence(long n) {
-        if (n < 10) return 0;
-        sum(n);
 
-        return counter;
     }
 }
