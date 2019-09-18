@@ -14,7 +14,7 @@ public class SolutionTest {
     
     @Test
     public void indivisibilityReturnsOne() {
-        assertEquals(1, CountingDuplicates.duplicateCount("indivisibility"));
+        assertEquals(26, CountingDuplicates.duplicateCount("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZReturnsTwentySix"));
     }
     
     @Test 

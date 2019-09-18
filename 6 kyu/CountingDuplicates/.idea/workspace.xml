@@ -2,156 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="720be3e9-f83f-4fc2-810b-e8862212376c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PersistentBugger/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrinterErrors/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrinterErrors/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrinterErrors/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrinterErrors/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrinterErrors/target/classes/Printer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrinterErrors/target/test-classes/PrinterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RegexvalidatePINcode/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RegexvalidatePINcode/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RegexvalidatePINcode/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RegexvalidatePINcode/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RegexvalidatePINcode/target/classes/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RegexvalidatePINcode/target/test-classes/SolutionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../createPhoneNumber/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../createPhoneNumber/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../createPhoneNumber/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../createPhoneNumber/createPhoneNumber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../createPhoneNumber/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../createPhoneNumber/target/classes/Kata.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../createPhoneNumber/target/test-classes/PhoneExampleTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Beginner Series #3 Sum of Numbers/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Beginner Series #3 Sum of Numbers/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Beginner Series #3 Sum of Numbers/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Beginner Series #3 Sum of Numbers/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Beginner Series #3 Sum of Numbers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Beginner Series #3 Sum of Numbers/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Beginner Series #3 Sum of Numbers/Beginner Series #3 Sum of Numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Beginner Series #3 Sum of Numbers/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Beginner Series #3 Sum of Numbers/src/main/java/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Beginner Series #3 Sum of Numbers/src/test/java/SumTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Beginner Series #3 Sum of Numbers/target/classes/Sum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Beginner Series #3 Sum of Numbers/target/test-classes/SumTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/ComplementaryDNA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/target/classes/DnaStrand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/target/test-classes/DnaStrandTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/DisemvowelTrolls.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/target/classes/Troll.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/target/test-classes/Tests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/ExesandOhs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/target/classes/XO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/target/test-classes/SolutionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/Findtheuniquenumber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/target/classes/Kata.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/GettheMiddleCharacter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/target/classes/Kata.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/target/test-classes/MiddleExampleTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/HighestandLowest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/target/classes/Kata.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/target/test-classes/Tests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/JadenCasingStrings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/target/classes/JadenCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/target/test-classes/JadenCaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Mumbling/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Mumbling/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Mumbling/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Mumbling/Mumbling.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Mumbling/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Mumbling/target/classes/Accumul.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Mumbling/target/test-classes/AccumulTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/SquareEveryDigit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/target/classes/SquareDigit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/target/test-classes/SquareDigitTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/VowelCount/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/VowelCount/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/VowelCount/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/VowelCount/VowelCount.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/VowelCount/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/VowelCount/target/classes/Vowels.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/VowelCount/target/test-classes/VowelsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Youreasquare/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Youreasquare/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Youreasquare/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Youreasquare/Youreasquare.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Youreasquare/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Youreasquare/target/classes/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../7 kyu/Youreasquare/target/test-classes/SquareTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CountingDuplicates.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrinterErrors/PrinterErrors.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CountingDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CountingDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/CountingDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CountingDuplicates.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SolutionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersistentBugger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PersistentBugger/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersistentBugger/PersistentBugger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../RegexvalidatePINcode/RegexvalidatePINcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersistentBugger/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PersistentBugger/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersistentBugger/src/main/java/Persist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PersistentBugger/src/main/java/Persist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersistentBugger/src/test/java/PersistTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PersistentBugger/src/test/java/PersistTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersistentBugger/target/classes/Persist.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PersistentBugger/target/classes/Persist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersistentBugger/target/test-classes/PersistTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PersistentBugger/target/test-classes/PersistTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PrinterErrors/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PrinterErrors/src/main/java/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PrinterErrors/src/test/java/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PrinterErrors/src/test/java/PrinterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RegexvalidatePINcode/src/main/java/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RegexvalidatePINcode/src/main/java/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RegexvalidatePINcode/src/test/java/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RegexvalidatePINcode/src/test/java/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../createPhoneNumber/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../createPhoneNumber/src/main/java/Kata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../createPhoneNumber/src/test/java/PhoneExampleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../createPhoneNumber/src/test/java/PhoneExampleTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/src/main/java/DnaStrand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/src/main/java/DnaStrand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/src/test/java/DnaStrandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/ComplementaryDNA/src/test/java/DnaStrandTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/src/main/java/Troll.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/src/main/java/Troll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/DisemvowelTrolls/src/test/java/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/src/main/java/XO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/src/main/java/XO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/src/test/java/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/ExesandOhs/src/test/java/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/src/main/java/Kata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/src/test/java/FindUniqTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/Findtheuniquenumber/src/test/java/FindUniqTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/src/main/java/Kata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/src/test/java/MiddleExampleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/GettheMiddleCharacter/src/test/java/MiddleExampleTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/src/main/java/Kata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/HighestandLowest/src/test/java/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/src/main/java/JadenCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/src/main/java/JadenCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/src/test/java/JadenCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/JadenCasingStrings/src/test/java/JadenCaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/Mumbling/src/main/java/Accumul.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/Mumbling/src/main/java/Accumul.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/Mumbling/src/test/java/AccumulTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/Mumbling/src/test/java/AccumulTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/src/main/java/SquareDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/src/main/java/SquareDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/src/test/java/SquareDigitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/SquareEveryDigit/src/test/java/SquareDigitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/VowelCount/src/main/java/Vowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/VowelCount/src/main/java/Vowels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/VowelCount/src/test/java/VowelsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/VowelCount/src/test/java/VowelsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/Youreasquare/src/main/java/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/Youreasquare/src/main/java/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7 kyu/Youreasquare/src/test/java/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/Youreasquare/src/test/java/SquareTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -166,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CountingDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            <state relative-caret-position="442">
+              <caret line="26" column="106" selection-end-line="30" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -176,10 +31,12 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="11" selection-end-column="69" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#258#259#0" expanded="true" />
                 <element signature="e#334#335#0" expanded="true" />
+                <marker date="1568824688845" expanded="false" signature="89:329" ph="..." />
               </folding>
             </state>
           </provider>
@@ -225,9 +82,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,12 +93,13 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568709998187" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568825003442" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -266,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.SolutionTest.indivisibilityReturnsOne">
     <configuration name="SolutionTest.abcdeaReturnsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CountingDuplicates" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -280,8 +138,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolutionTest.indivisibilityReturnsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CountingDuplicates" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="METHOD_NAME" value="indivisibilityReturnsOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.indivisibilityReturnsOne" />
         <item itemvalue="JUnit.SolutionTest.abcdeaReturnsOne" />
       </list>
     </recent_temporary>
@@ -306,48 +175,50 @@
       <workItem from="1568709181968" duration="938000" />
       <workItem from="1568718571756" duration="1747000" />
       <workItem from="1568720743469" duration="599000" />
+      <workItem from="1568823275884" duration="1741000" />
+      <workItem from="1568825137887" duration="729000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest_abcdeaReturnsOne - 2019.09.17 at 11h 44m 55s.xml">
-      <configuration name="SolutionTest.abcdeaReturnsOne" configurationId="JUnit" />
+    <history-entry file="SolutionTest_indivisibilityReturnsOne - 2019.09.18 at 19h 33m 40s.xml">
+      <configuration name="SolutionTest.indivisibilityReturnsOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_abcdeaReturnsOne - 2019.09.17 at 11h 45m 34s.xml">
-      <configuration name="SolutionTest.abcdeaReturnsOne" configurationId="JUnit" />
+    <history-entry file="SolutionTest_indivisibilityReturnsOne - 2019.09.18 at 19h 34m 31s.xml">
+      <configuration name="SolutionTest.indivisibilityReturnsOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_abcdeaReturnsOne - 2019.09.17 at 11h 46m 44s.xml">
-      <configuration name="SolutionTest.abcdeaReturnsOne" configurationId="JUnit" />
+    <history-entry file="SolutionTest_indivisibilityReturnsOne - 2019.09.18 at 19h 34m 43s.xml">
+      <configuration name="SolutionTest.indivisibilityReturnsOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_abcdeaReturnsOne - 2019.09.17 at 14h 24m 26s.xml">
-      <configuration name="SolutionTest.abcdeaReturnsOne" configurationId="JUnit" />
+    <history-entry file="SolutionTest_indivisibilityReturnsOne - 2019.09.18 at 19h 35m 36s.xml">
+      <configuration name="SolutionTest.indivisibilityReturnsOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_abcdeaReturnsOne - 2019.09.17 at 14h 25m 21s.xml">
-      <configuration name="SolutionTest.abcdeaReturnsOne" configurationId="JUnit" />
+    <history-entry file="SolutionTest_indivisibilityReturnsOne - 2019.09.18 at 19h 35m 56s.xml">
+      <configuration name="SolutionTest.indivisibilityReturnsOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_abcdeaReturnsOne - 2019.09.17 at 14h 28m 28s.xml">
-      <configuration name="SolutionTest.abcdeaReturnsOne" configurationId="JUnit" />
+    <history-entry file="SolutionTest_indivisibilityReturnsOne - 2019.09.18 at 19h 38m 34s.xml">
+      <configuration name="SolutionTest.indivisibilityReturnsOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_abcdeaReturnsOne - 2019.09.17 at 14h 29m 53s.xml">
-      <configuration name="SolutionTest.abcdeaReturnsOne" configurationId="JUnit" />
+    <history-entry file="SolutionTest_indivisibilityReturnsOne - 2019.09.18 at 19h 39m 51s.xml">
+      <configuration name="SolutionTest.indivisibilityReturnsOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_abcdeaReturnsOne - 2019.09.17 at 14h 32m 18s.xml">
-      <configuration name="SolutionTest.abcdeaReturnsOne" configurationId="JUnit" />
+    <history-entry file="SolutionTest_indivisibilityReturnsOne - 2019.09.18 at 19h 40m 07s.xml">
+      <configuration name="SolutionTest.indivisibilityReturnsOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_abcdeaReturnsOne - 2019.09.17 at 14h 34m 21s.xml">
-      <configuration name="SolutionTest.abcdeaReturnsOne" configurationId="JUnit" />
+    <history-entry file="SolutionTest_indivisibilityReturnsOne - 2019.09.18 at 19h 41m 44s.xml">
+      <configuration name="SolutionTest.indivisibilityReturnsOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_abcdeaReturnsOne - 2019.09.17 at 14h 38m 38s.xml">
-      <configuration name="SolutionTest.abcdeaReturnsOne" configurationId="JUnit" />
+    <history-entry file="SolutionTest_indivisibilityReturnsOne - 2019.09.18 at 19h 43m 20s.xml">
+      <configuration name="SolutionTest.indivisibilityReturnsOne" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17602000" />
+    <option name="totallyTimeSpent" value="20072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-321" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19296375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19722815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -382,6 +253,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CountingDuplicates.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -389,21 +272,20 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTestTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/CountingDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-          <folding>
-            <element signature="e#224#232#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="442">
+          <caret line="26" column="106" selection-end-line="30" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="11" selection-end-column="69" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#258#259#0" expanded="true" />
             <element signature="e#334#335#0" expanded="true" />
+            <marker date="1568824688845" expanded="false" signature="89:329" ph="..." />
           </folding>
         </state>
       </provider>
