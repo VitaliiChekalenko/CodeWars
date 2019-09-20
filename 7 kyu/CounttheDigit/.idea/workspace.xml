@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b717d5de-4818-4ece-a177-a45f48ecef0a" name="Default Changelist" comment="">
+    <list default="true" id="09c4a931-08ae-46f6-94ba-5f73407c2e49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CountDig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CountDigTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../6 kyu/PersistentBugger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 kyu/PersistentBugger/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/KataTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/KataTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Kata.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/KataTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/KataTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dontgivemefive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dontgivemefive/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dontgivemefive/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dontgivemefive/src/main/java/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dontgivemefive/src/test/java/KataTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dontgivemefive/src/test/java/KataTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dontgivemefive/target/classes/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dontgivemefive/target/classes/Kata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dontgivemefive/target/test-classes/KataTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dontgivemefive/target/test-classes/KataTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Sumofoddnumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sumofoddnumbers/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Sumofoddnumbers/src/main/java/RowSumOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sumofoddnumbers/src/main/java/RowSumOddNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SumofthefirstnthtermofSeries/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SumofthefirstnthtermofSeries/.idea/workspace.xml" afterDir="false" />
@@ -23,75 +27,57 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-6475174">
+    <session id="-352382194">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
           <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
           <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="472" />
+          <entry key="java" value="139" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="472" />
+          <entry key="JAVA" value="139" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Kata.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CountDig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="242">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/KataTests.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CountDigTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-beta-2/junit-4.13-beta-2.jar!/org/junit/Assert.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4840">
-              <caret line="238" selection-start-line="238" selection-end-line="238" />
-              <folding>
-                <element signature="e#8367#8368#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="44">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -112,8 +98,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/KataTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Kata.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CountDigTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CountDig.java" />
       </list>
     </option>
   </component>
@@ -142,27 +128,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Dontgivemefive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dontgivemefive" type="462c0819:PsiDirectoryNode" />
+              <item name="CounttheDigit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CounttheDigit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Dontgivemefive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dontgivemefive" type="462c0819:PsiDirectoryNode" />
+              <item name="CounttheDigit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CounttheDigit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Dontgivemefive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dontgivemefive" type="462c0819:PsiDirectoryNode" />
+              <item name="CounttheDigit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CounttheDigit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Dontgivemefive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dontgivemefive" type="462c0819:PsiDirectoryNode" />
+              <item name="CounttheDigit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CounttheDigit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -170,15 +158,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568924194518" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568925467513" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -195,17 +180,17 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="KataTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Dontgivemefive" />
+    <configuration name="CountDigTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CounttheDigit" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="KataTests" />
+      <option name="MAIN_CLASS_NAME" value="CountDigTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.KataTests" />
+        <item itemvalue="JUnit.CountDigTest" />
       </list>
     </recent_temporary>
   </component>
@@ -214,61 +199,62 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b717d5de-4818-4ece-a177-a45f48ecef0a" name="Default Changelist" comment="" />
-      <created>1555503196896</created>
+      <changelist id="09c4a931-08ae-46f6-94ba-5f73407c2e49" name="Default Changelist" comment="" />
+      <created>1568924648882</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1555503196896</updated>
-      <workItem from="1555503199449" duration="5241000" />
-      <workItem from="1568923402495" duration="1247000" />
+      <updated>1568924648882</updated>
+      <workItem from="1568924651880" duration="1356000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KataTests - 2019.09.19 at 23h 08m 47s.xml">
-      <configuration name="KataTests" configurationId="JUnit" />
+    <history-entry file="CountDigTest - 2019.09.19 at 23h 28m 35s.xml">
+      <configuration name="CountDigTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KataTests - 2019.09.19 at 23h 09m 31s.xml">
-      <configuration name="KataTests" configurationId="JUnit" />
+    <history-entry file="CountDigTest - 2019.09.19 at 23h 29m 54s.xml">
+      <configuration name="CountDigTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KataTests - 2019.09.19 at 23h 10m 19s.xml">
-      <configuration name="KataTests" configurationId="JUnit" />
+    <history-entry file="CountDigTest - 2019.09.19 at 23h 30m 36s.xml">
+      <configuration name="CountDigTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KataTests - 2019.09.19 at 23h 10m 46s.xml">
-      <configuration name="KataTests" configurationId="JUnit" />
+    <history-entry file="CountDigTest - 2019.09.19 at 23h 31m 21s.xml">
+      <configuration name="CountDigTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KataTests - 2019.09.19 at 23h 10m 51s.xml">
-      <configuration name="KataTests" configurationId="JUnit" />
+    <history-entry file="CountDigTest - 2019.09.19 at 23h 31m 30s.xml">
+      <configuration name="CountDigTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KataTests - 2019.09.19 at 23h 11m 22s.xml">
-      <configuration name="KataTests" configurationId="JUnit" />
+    <history-entry file="CountDigTest - 2019.09.19 at 23h 33m 02s.xml">
+      <configuration name="CountDigTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KataTests - 2019.09.19 at 23h 12m 03s.xml">
-      <configuration name="KataTests" configurationId="JUnit" />
+    <history-entry file="CountDigTest - 2019.09.19 at 23h 33m 15s.xml">
+      <configuration name="CountDigTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KataTests - 2019.09.19 at 23h 12m 07s.xml">
-      <configuration name="KataTests" configurationId="JUnit" />
+    <history-entry file="CountDigTest - 2019.09.19 at 23h 36m 51s.xml">
+      <configuration name="CountDigTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KataTests - 2019.09.19 at 23h 12m 22s.xml">
-      <configuration name="KataTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KataTests - 2019.09.19 at 23h 12m 26s.xml">
-      <configuration name="KataTests" configurationId="JUnit" />
+    <history-entry file="CountDigTest - 2019.09.19 at 23h 37m 44s.xml">
+      <configuration name="CountDigTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6488000" />
+    <option name="totallyTimeSpent" value="1356000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
@@ -276,20 +262,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,8 +283,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Kata.java</url>
-          <line>24</line>
+          <url>file://$PROJECT_DIR$/src/main/java/CountDig.java</url>
+          <line>20</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -314,30 +295,17 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-beta-2/junit-4.13-beta-2.jar!/org/junit/Assert.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/CountDigTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4840">
-          <caret line="238" selection-start-line="238" selection-end-line="238" />
-          <folding>
-            <element signature="e#8367#8368#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="44">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/KataTests.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CountDig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Kata.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="242">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>

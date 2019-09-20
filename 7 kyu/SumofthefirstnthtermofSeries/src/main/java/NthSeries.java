@@ -16,24 +16,16 @@
 //		NOTE: In PHP the function is called series_sum().
 
 public class NthSeries {
-	
-	public static String seriesSum(int n) {
 
-		if(n==0) return "0.00";
+    public static String seriesSum(int n) {
 
-		float sum = 0, dr=1;
-		String done = Math.round(sum * 100.0) / 100.0+"";
+       double dr = 1, a = 0;
 
-		for (int i = 0; i<n ; i++){
-			//sum += Math.round(1/dr * 10000.0) / 10000.0  ;
-			//sum= sum+ 1/dr;
+        for (int i = 0; i < n; i++) {
+            a += 1 / dr;
+            dr += 3;
+        }
 
-			sum+= 1/dr;
-			dr+=3;
-		}
-
-		if((Math.round(sum * 100.0) / 100.0+"").contains(" ")) done+="0"
-
-		return done ;
-	}
+        return String.format("%.2f", a);
+    }
 }
