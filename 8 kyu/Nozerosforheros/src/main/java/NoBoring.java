@@ -1,40 +1,25 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+/*Numbers ending with zeros are boring.
+
+They might be fun in your world, but not here.
+
+Get rid of them. Only the ending ones.
+
+1450 -> 145
+960000 -> 96
+1050 -> 105
+-1050 -> -105
+Zero alone is fine, don't worry about it. Poor guy anyway
+*/
 
 public class NoBoring {
     public static int noBoringZeros(int n) {
-        String a= n+"";
-        StringBuilder res = new StringBuilder();
-        String[] arr= a.split("");
-        for(int i=arr.length-1; i>0; i--){
-            if((Integer.parseInt(arr[i])>=1) || Integer.parseInt(arr[i])<=-1) {
-                break;
-            }
-            res= arr
-
+        String s = n+"";
+        if(n==0){
+            return n;
         }
-        return Integer.parseInt(Arrays.toString(arr).trim());
-
+        while(s.substring(s.length()-1).contains("0")){
+            s = s.substring(0, s.length()-1);
+        }
+        return Integer.parseInt(s);
     }
 }
-
-/*import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
-public class NoBoring {
-    public static int noBoringZeros(int n) {
-        List<String> array = new ArrayList<>(Arrays.asList(String.valueOf(n).split("")));
-        for (int i = array.size() - 1; i >= 0; i--) {
-            if (Integer.parseInt(array.get(i)) == 0)
-                array.remove(i);
-            else break;
-        }
-        String result = "";
-        for (String arr : array) {
-            result += arr;
-        }
-        return result.length() == 0 ? 0 : Integer.parseInt(result);
-    }
-}*/

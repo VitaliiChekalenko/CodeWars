@@ -2,90 +2,100 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="459d65cc-7a27-4950-bc93-818045b30364" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/CountingDuplicates/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/CountingDuplicates/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/CountingDuplicates/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/CountingDuplicates/src/main/java/CountingDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/CountingDuplicates/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/Findtheoddint/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/Findtheoddint/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/Findtheoddint/src/main/java/FindOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/Findtheoddint/src/test/java/FindOddTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SampleTestCases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Checktheexam/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Checktheexam/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Checktheexam/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Checktheexam/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dontgivemefive/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dontgivemefive/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dontgivemefive/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dontgivemefive/src/test/java/KataTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Findthestraynumber/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Findthestraynumber/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Findthestraynumber/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Findthestraynumber/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Makeafunctionthatdoesarithmetic/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Makeafunctionthatdoesarithmetic/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Makeafunctionthatdoesarithmetic/src/main/java/ArithmeticFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Makeafunctionthatdoesarithmetic/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaximumLengthDifference/src/main/java/MaxDiffLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaximumLengthDifference/src/test/java/MaxDiffLengthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MoneyMoneyMoney/src/test/java/MoneyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/src/main/java/Metro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/src/test/java/MetroTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OddorEven/src/main/java/Codewars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OnesandZeros/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OnesandZeros/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OnesandZeros/src/main/java/BinaryArrayToNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OnesandZeros/src/test/java/BinaryArrayToNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reversewords/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reversewords/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reversewords/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reversewords/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SorttheGiftCode/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SorttheGiftCode/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SorttheGiftCode/src/main/java/GiftSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SorttheGiftCode/src/test/java/GiftSorterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stringendswith/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stringendswith/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stringendswith/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stringendswith/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sumofoddnumbers/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sumofoddnumbers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sumofoddnumbers/src/main/java/RowSumOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sumofoddnumbers/src/test/java/RowSumOddNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Thehighestprofitwins/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Thehighestprofitwins/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Thehighestprofitwins/src/main/java/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Thehighestprofitwins/src/test/java/MinMaxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TriangularTreasure/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TriangularTreasure/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TriangularTreasure/src/main/java/Triangular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TriangularTreasure/src/test/java/Triangular_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Twofightersonewinner/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Twofightersonewinner/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Twofightersonewinner/src/main/java/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Twofightersonewinner/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Twofightersonewinner/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8 kyu/Ifyoucantsleepjustcountsheep/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8 kyu/Ifyoucantsleepjustcountsheep/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8 kyu/Ifyoucantsleepjustcountsheep/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8 kyu/Ifyoucantsleepjustcountsheep/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8 kyu/Tribonacci Sequence/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8 kyu/Tribonacci Sequence/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8 kyu/Tribonacci Sequence/src/main/java/Xbonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8 kyu/Tribonacci Sequence/src/test/java/XbonacciTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/AllStarCodeChallenge18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/AllStarCodeChallenge18/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/CalculateBMI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/CalculateBMI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/CalculateBMI/src/main/java/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/CalculateBMI/src/main/java/Calculate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/CalculateBMI/target/classes/Calculate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/Findthefirstnonconsecutivenumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Findthefirstnonconsecutivenumber/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/SwapValues/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/SwapValues/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Weightforweight/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Weightforweight/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Weightforweight/src/main/java/WeightSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Weightforweight/src/test/java/WeightSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Aretheythesame/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Aretheythesame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Aretheythesame/src/main/java/AreSame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Aretheythesame/src/test/java/AreSameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/BuildapileofCubes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/BuildapileofCubes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/BuildapileofCubes/src/main/java/ASum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/BuildapileofCubes/src/test/java/ASumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Consecutivestrings/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Consecutivestrings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Consecutivestrings/src/main/java/LongestConsec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Consecutivestrings/src/test/java/LongestConsecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Countthesmileyfaces/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Countthesmileyfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Countthesmileyfaces/src/main/java/SmileFaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Countthesmileyfaces/src/test/java/SmileFacesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/EqualSidesOfAnArray/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/EqualSidesOfAnArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/EqualSidesOfAnArray/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/EqualSidesOfAnArray/src/test/java/KataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/HighestScoringWord/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/HighestScoringWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/HighestScoringWord/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/HighestScoringWord/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Playingwithdigits/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Playingwithdigits/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Playingwithdigits/src/main/java/DigPow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Playingwithdigits/src/test/java/DigPowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/TakeaNumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/TakeaNumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/TakeaNumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka/src/main/java/SumDigPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/TakeaNumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka/src/test/java/SumDigPowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/VasyaClerk/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/VasyaClerk/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/VasyaClerk/src/main/java/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/VasyaClerk/src/test/java/LineTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Whicharein/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Whicharein/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Whicharein/src/main/java/WhichAreIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Whicharein/src/test/java/WhichAreInTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/CatyearsDogyears/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/CatyearsDogyears/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/CatyearsDogyears/src/main/java/Dinglemouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/CatyearsDogyears/src/test/java/ExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/ColorGhost/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries11Replaceallvoweltoexclamationmarkinthesentence/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries11Replaceallvoweltoexclamationmarkinthesentence/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries11Replaceallvoweltoexclamationmarkinthesentence/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries11Replaceallvoweltoexclamationmarkinthesentence/src/test/java/SampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries6Removenexclamationmarksinthesentencefromlefttoright/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries6Removenexclamationmarksinthesentencefromlefttoright/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries6Removenexclamationmarksinthesentencefromlefttoright/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries6Removenexclamationmarksinthesentencefromlefttoright/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/HowmanystairswillSuzukiclimbin20years/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/HowmanystairswillSuzukiclimbin20years/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/HowmanystairswillSuzukiclimbin20years/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/HowmanystairswillSuzukiclimbin20years/src/test/java/KataTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/L1SetAlarm/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/L1SetAlarm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/L1SetAlarm/src/main/java/Alarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/L1SetAlarm/src/test/java/AlarmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/SumMixedArray/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/SumMixedArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/SumMixedArray/src/main/java/MixedSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/SumMixedArray/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Willtherebeenoughspace/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Willtherebeenoughspace/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Willtherebeenoughspace/src/main/java/Bob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Willtherebeenoughspace/src/test/java/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 kuy/6.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 kuy/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/DuplicateEncoder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/src/main/java/DuplicateEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/src/main/java/DuplicateEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/target/classes/DuplicateEncoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/target/classes/DuplicateEncoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CounttheDigit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CounttheDigit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaximumLengthDifference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumLengthDifference/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaximumLengthDifference/src/main/java/MaxDiffLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumLengthDifference/src/main/java/MaxDiffLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaximumLengthDifference/src/test/java/MaxDiffLengthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumLengthDifference/src/test/java/MaxDiffLengthTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaximumLengthDifference/target/classes/MaxDiffLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumLengthDifference/target/classes/MaxDiffLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaximumLengthDifference/target/test-classes/MaxDiffLengthTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumLengthDifference/target/test-classes/MaxDiffLengthTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/ColorGhost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/ColorGhost/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/ColorGhost/src/main/java/Ghost.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/ColorGhost/src/main/java/Ghost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/Nozerosforheros.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/src/main/java/NoBoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/src/main/java/NoBoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/target/classes/NoBoring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/target/test-classes/NoBoringTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -99,9 +109,10 @@
     <session id="-769115879">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -127,7 +138,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
@@ -226,6 +237,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555698348804" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -267,6 +279,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555605152470</updated>
       <workItem from="1555605155746" duration="477000" />
+      <workItem from="1569327772132" duration="47000" />
     </task>
     <servers />
   </component>
@@ -279,23 +292,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="477000" />
+    <option name="totallyTimeSpent" value="524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.329718" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
@@ -303,15 +311,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">

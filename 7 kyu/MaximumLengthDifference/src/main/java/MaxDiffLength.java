@@ -13,17 +13,25 @@
 //        input : 2 strings with substrings separated by ,
 //        output: number as a string
 
-class MaxDiffLength {
-    
-    public static int mxdiflg(String[] a1, String[] a2) {
-       String b1 = "", b2="";
-        for (String x: a1 ) {
-            b1+=x;
-        }
-        for (String x: a2  ) {
-            b2+=x;
-        }
 
-        return b1.length()>b2.length()? Math.abs(b1.length()-b2.length()): Math.abs(b2.length()-b1.length());
+class MaxDiffLength {
+
+    public static int mxdiflg(String[] a1, String[] a2) {
+        String max = "", min = "000000000000000000000000000000000000000000000000000000000";
+
+
+        for (String s : a1) {
+            if (s.length() < min.length()) {
+                min = s;
+            }
+        }
+        for (String s : a2) {
+            if (s.length() > max.length()) {
+                max = s;
+            }
+
+        }
+        return Math.abs(min.length() - max.length());
+
     }
 }

@@ -13,22 +13,26 @@ Assertion messages may be unclear about what they display in some languages. If 
 public class DuplicateEncoder {
 	static String encode(String word){
 
-	    word = word.toLowerCase();
-        for (int i = 0; i< word.length(); i++){
-             String s = word.substring(i,i+1);
-             if(word.substring(i,i+1).equals("(") || word.substring(i,i+1).equals(")")){
-                 continue;
-             }
-            if(word.contains(s)) {
-                word=word.replace(s, ")");
-                    }
-            else{
-                word=word.replace(s, "(");
+	    String[] s = word.toLowerCase().split("");
+	    int counter = 0;
+	    String done = "";
+        for (int i = 0; i< s.length; i++){
+            for (int j = 0; j<s.length; j++){
+                if(s[i].equals(s[j])){
+                    counter++;
+                }
             }
-            System.out.print(word.substring(i,i+1));
+            if(counter>1){
+                done+= ")";
+                counter=0;
+            }
+            else{
+                done+= "(";
+                counter=0;
+            }
         }
 
 
-    return word;
+    return done;
   }
 }

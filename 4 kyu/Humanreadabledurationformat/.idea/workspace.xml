@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fc590c3-49aa-488f-b9e2-f8a8843741c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Weightforweight/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Weightforweight/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Weightforweight/src/main/java/WeightSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Weightforweight/src/test/java/WeightSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Aretheythesame/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Aretheythesame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Aretheythesame/src/main/java/AreSame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Aretheythesame/src/test/java/AreSameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/BuildapileofCubes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/BuildapileofCubes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/BuildapileofCubes/src/main/java/ASum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/BuildapileofCubes/src/test/java/ASumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Consecutivestrings/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Consecutivestrings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Consecutivestrings/src/main/java/LongestConsec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Consecutivestrings/src/test/java/LongestConsecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Countthesmileyfaces/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Countthesmileyfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Countthesmileyfaces/src/main/java/SmileFaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Countthesmileyfaces/src/test/java/SmileFacesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/EqualSidesOfAnArray/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/EqualSidesOfAnArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/EqualSidesOfAnArray/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/EqualSidesOfAnArray/src/test/java/KataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/HighestScoringWord/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/HighestScoringWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/HighestScoringWord/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/HighestScoringWord/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Playingwithdigits/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Playingwithdigits/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Playingwithdigits/src/main/java/DigPow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Playingwithdigits/src/test/java/DigPowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/TakeaNumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/TakeaNumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/TakeaNumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka/src/main/java/SumDigPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/TakeaNumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka/src/test/java/SumDigPowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/VasyaClerk/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/VasyaClerk/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/VasyaClerk/src/main/java/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/VasyaClerk/src/test/java/LineTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Whicharein/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Whicharein/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Whicharein/src/main/java/WhichAreIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Whicharein/src/test/java/WhichAreInTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/CatyearsDogyears/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/CatyearsDogyears/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/CatyearsDogyears/src/main/java/Dinglemouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/CatyearsDogyears/src/test/java/ExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/ColorGhost/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries11Replaceallvoweltoexclamationmarkinthesentence/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries11Replaceallvoweltoexclamationmarkinthesentence/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries11Replaceallvoweltoexclamationmarkinthesentence/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries11Replaceallvoweltoexclamationmarkinthesentence/src/test/java/SampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries6Removenexclamationmarksinthesentencefromlefttoright/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries6Removenexclamationmarksinthesentencefromlefttoright/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries6Removenexclamationmarksinthesentencefromlefttoright/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Exclamationmarksseries6Removenexclamationmarksinthesentencefromlefttoright/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/HowmanystairswillSuzukiclimbin20years/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/HowmanystairswillSuzukiclimbin20years/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/HowmanystairswillSuzukiclimbin20years/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/HowmanystairswillSuzukiclimbin20years/src/test/java/KataTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/L1SetAlarm/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/L1SetAlarm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/L1SetAlarm/src/main/java/Alarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/L1SetAlarm/src/test/java/AlarmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/SumMixedArray/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/SumMixedArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/SumMixedArray/src/main/java/MixedSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/SumMixedArray/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Willtherebeenoughspace/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Willtherebeenoughspace/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Willtherebeenoughspace/src/main/java/Bob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/Willtherebeenoughspace/src/test/java/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 kuy/6.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 kuy/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/DuplicateEncoder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/src/main/java/DuplicateEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/src/main/java/DuplicateEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/target/classes/DuplicateEncoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 kyu/DuplicateEncoder/target/classes/DuplicateEncoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 kyu/Arethenumbersinorder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/Arethenumbersinorder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 kyu/CounttheDigit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/CounttheDigit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 kyu/MaximumLengthDifference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/MaximumLengthDifference/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 kyu/MaximumLengthDifference/src/main/java/MaxDiffLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/MaximumLengthDifference/src/main/java/MaxDiffLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 kyu/MaximumLengthDifference/src/test/java/MaxDiffLengthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/MaximumLengthDifference/src/test/java/MaxDiffLengthTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 kyu/MaximumLengthDifference/target/classes/MaxDiffLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/MaximumLengthDifference/target/classes/MaxDiffLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 kyu/MaximumLengthDifference/target/test-classes/MaxDiffLengthTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 kyu/MaximumLengthDifference/target/test-classes/MaxDiffLengthTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/ColorGhost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/ColorGhost/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/ColorGhost/src/main/java/Ghost.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/ColorGhost/src/main/java/Ghost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/src/main/java/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/Nozerosforheros.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/src/main/java/NoBoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/src/main/java/NoBoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/target/classes/NoBoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/target/classes/NoBoring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/target/test-classes/NoBoringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Nozerosforheros/target/test-classes/NoBoringTest.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1766209953">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="175" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="175" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TimeFormatter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TimeFormatterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../FlappyBird-master/FlappyBird-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../java/projects/FlappyBird" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/TimeFormatterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TimeFormatter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Humanreadabledurationformat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Humanreadabledurationformat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Humanreadabledurationformat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Humanreadabledurationformat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Humanreadabledurationformat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Humanreadabledurationformat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Humanreadabledurationformat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Humanreadabledurationformat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Humanreadabledurationformat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Humanreadabledurationformat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570976125604" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TimeFormatterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Humanreadabledurationformat" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TimeFormatterTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TimeFormatterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fc590c3-49aa-488f-b9e2-f8a8843741c0" name="Default Changelist" comment="" />
+      <created>1570974952528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570974952528</updated>
+      <workItem from="1570974957189" duration="1301000" />
+      <workItem from="1573338044792" duration="715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TimeFormatterTest - 2019.10.13 at 17h 04m 06s.xml">
+      <configuration name="TimeFormatterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeFormatterTest - 2019.10.13 at 17h 06m 37s.xml">
+      <configuration name="TimeFormatterTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2016000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TimeFormatter.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TimeFormatterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
