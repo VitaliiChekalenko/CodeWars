@@ -13,7 +13,7 @@ Have fun coding it and please don't forget to vote and rank this kata! :-)*/
 public class Kata {
     public static double[] averages(int[] numbers) {
 
-       if (numbers.length == 0) return new double[0];
+        if (numbers.length <2|| numbers.equals(new double[0])|| numbers == null) return new double[0];
 
         double[] nums = new double[numbers.length - 1];
 
