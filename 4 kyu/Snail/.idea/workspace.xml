@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c6b38fd-5363-40a7-b6ad-b5a5bc015b3d" name="Default Changelist" comment="" />
+    <list default="true" id="8b17bfda-dbfb-493b-8b5d-2344df62dbe4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Snail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SnailTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 kyu/ProductofconsecutiveFibnumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 kyu/ProductofconsecutiveFibnumbers/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,15 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1755003752">
+    <session id="-1613077491">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -36,40 +39,41 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="670" />
+          <entry key="java" value="429" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="670" />
+          <entry key="JAVA" value="429" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProdFib.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Snail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="40" selection-start-line="40" selection-end-line="50" selection-end-column="1" />
+            <state relative-caret-position="742">
+              <caret line="56" column="1" selection-start-line="20" selection-end-line="56" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#886#895#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ProdFibTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SnailTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="572">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,8 +97,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/ProdFibTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProdFib.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/SnailTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Snail.java" />
       </list>
     </option>
   </component>
@@ -124,46 +129,41 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ProductofconsecutiveFibnumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProductofconsecutiveFibnumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="Snail" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Snail" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProductofconsecutiveFibnumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProductofconsecutiveFibnumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="Snail" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Snail" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProductofconsecutiveFibnumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProductofconsecutiveFibnumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="Snail" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Snail" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProductofconsecutiveFibnumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProductofconsecutiveFibnumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="Snail" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Snail" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProductofconsecutiveFibnumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578405429596" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578950230022" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -179,35 +179,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ProdFibTest.test2">
-    <configuration name="ProdFibTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProductofconsecutiveFibnumbers" />
+  <component name="RunManager">
+    <configuration name="SnailTest.SnailTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Snail" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProdFibTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="SnailTest" />
+      <option name="METHOD_NAME" value="SnailTest1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdFibTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProductofconsecutiveFibnumbers" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProdFibTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="JUnit.ProdFibTest.test1" />
-      <item itemvalue="JUnit.ProdFibTest.test2" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProdFibTest.test2" />
-        <item itemvalue="JUnit.ProdFibTest.test1" />
+        <item itemvalue="JUnit.SnailTest.SnailTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -216,84 +201,81 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2c6b38fd-5363-40a7-b6ad-b5a5bc015b3d" name="Default Changelist" comment="" />
-      <created>1578397508934</created>
+      <changelist id="8b17bfda-dbfb-493b-8b5d-2344df62dbe4" name="Default Changelist" comment="" />
+      <created>1578947308022</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578397508934</updated>
-      <workItem from="1578397514809" duration="46000" />
-      <workItem from="1578398798978" duration="5485000" />
-      <workItem from="1578933057794" duration="31000" />
-      <workItem from="1578947105434" duration="204000" />
+      <updated>1578947308022</updated>
+      <workItem from="1578947311916" duration="3527000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProdFibTest_test2 - 2020.01.07 at 15h 00m 56s.xml">
-      <configuration name="ProdFibTest.test2" configurationId="JUnit" />
+    <history-entry file="SnailTest_SnailTest1 - 2020.01.13 at 23h 02m 58s.xml">
+      <configuration name="SnailTest.SnailTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProdFibTest_test2 - 2020.01.07 at 15h 01m 37s.xml">
-      <configuration name="ProdFibTest.test2" configurationId="JUnit" />
+    <history-entry file="SnailTest_SnailTest1 - 2020.01.13 at 23h 05m 42s.xml">
+      <configuration name="SnailTest.SnailTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProdFibTest_test2 - 2020.01.07 at 15h 02m 01s.xml">
-      <configuration name="ProdFibTest.test2" configurationId="JUnit" />
+    <history-entry file="SnailTest_SnailTest1 - 2020.01.13 at 23h 05m 56s.xml">
+      <configuration name="SnailTest.SnailTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProdFibTest_test2 - 2020.01.07 at 15h 03m 43s.xml">
-      <configuration name="ProdFibTest.test2" configurationId="JUnit" />
+    <history-entry file="SnailTest_SnailTest1 - 2020.01.13 at 23h 06m 49s.xml">
+      <configuration name="SnailTest.SnailTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProdFibTest_test2 - 2020.01.07 at 15h 03m 53s.xml">
-      <configuration name="ProdFibTest.test2" configurationId="JUnit" />
+    <history-entry file="SnailTest_SnailTest1 - 2020.01.13 at 23h 07m 14s.xml">
+      <configuration name="SnailTest.SnailTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProdFibTest_test2 - 2020.01.07 at 15h 09m 24s.xml">
-      <configuration name="ProdFibTest.test2" configurationId="JUnit" />
+    <history-entry file="SnailTest_SnailTest1 - 2020.01.13 at 23h 07m 59s.xml">
+      <configuration name="SnailTest.SnailTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProdFibTest_test2 - 2020.01.07 at 15h 23m 37s.xml">
-      <configuration name="ProdFibTest.test2" configurationId="JUnit" />
+    <history-entry file="SnailTest_SnailTest1 - 2020.01.13 at 23h 09m 58s.xml">
+      <configuration name="SnailTest.SnailTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProdFibTest_test2 - 2020.01.07 at 15h 24m 04s.xml">
-      <configuration name="ProdFibTest.test2" configurationId="JUnit" />
+    <history-entry file="SnailTest_SnailTest1 - 2020.01.13 at 23h 10m 02s.xml">
+      <configuration name="SnailTest.SnailTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProdFibTest_test2 - 2020.01.07 at 15h 52m 50s.xml">
-      <configuration name="ProdFibTest.test2" configurationId="JUnit" />
+    <history-entry file="SnailTest_SnailTest1 - 2020.01.13 at 23h 11m 00s.xml">
+      <configuration name="SnailTest.SnailTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProdFibTest_test2 - 2020.01.13 at 22h 25m 25s.xml">
-      <configuration name="ProdFibTest.test2" configurationId="JUnit" />
+    <history-entry file="SnailTest_SnailTest1 - 2020.01.13 at 23h 14m 26s.xml">
+      <configuration name="SnailTest.SnailTest1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5766000" />
+    <option name="totallyTimeSpent" value="3527000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,13 +284,21 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Snail.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/ExactComparisonCriteria.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -317,25 +307,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProdFibTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="198">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SnailTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProdFib.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Snail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="40" selection-start-line="40" selection-end-line="50" selection-end-column="1" />
+        <state relative-caret-position="742">
+          <caret line="56" column="1" selection-start-line="20" selection-end-line="56" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#886#895#0" expanded="true" />
           </folding>
         </state>
       </provider>
