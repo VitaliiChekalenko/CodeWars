@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64143543-5bec-4e2b-b413-8d417cf9da4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ARuleofDivisibilityby7/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ARuleofDivisibilityby7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ARuleofDivisibilityby7/src/main/java/DivSeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ARuleofDivisibilityby7/src/test/java/DivSevenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CollatzConjectureLength/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CollatzConjectureLength/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CollatzConjectureLength/src/main/java/Collatz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CollatzConjectureLength/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Foldingyourwaytothemoon/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Foldingyourwaytothemoon/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Foldingyourwaytothemoon/src/main/java/PaperFolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Foldingyourwaytothemoon/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GreetMe/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GreetMe/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GreetMe/src/main/java/GreetMe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GreetMe/src/test/java/GreetMeTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NameArrayCapping/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NameArrayCapping/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NameArrayCapping/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NameArrayCapping/src/test/java/KataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UniqueArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UniqueArray_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Simplebeadscount/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Simplebeadscount/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Simplebeadscount/src/main/java/BeadsCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Simplebeadscount/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SumofTriangularNumbers/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SumofTriangularNumbers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SumofTriangularNumbers/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SumofTriangularNumbers/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testing123/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testing123/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testing123/src/main/java/LineNumbering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testing123/src/test/java/LineNumberingTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="64143543-5bec-4e2b-b413-8d417cf9da4b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,9 +22,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
               <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-              <folding>
-                <element signature="e#1017#1026#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -189,6 +149,7 @@
       <updated>1578313024737</updated>
       <workItem from="1578313027150" duration="519000" />
       <workItem from="1578313609023" duration="866000" />
+      <workItem from="1578472771097" duration="34000" />
     </task>
     <servers />
   </component>
@@ -198,12 +159,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1385000" />
+    <option name="totallyTimeSpent" value="1419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
