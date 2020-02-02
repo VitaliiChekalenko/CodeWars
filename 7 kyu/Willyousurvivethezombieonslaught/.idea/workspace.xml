@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e87c1d4-7e7f-41ec-848a-5a221eb77289" name="Default Changelist" comment="" />
+    <list default="true" id="34e009c6-118c-45d9-bc53-ae6205f37502" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Tortoiseracing/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Tortoiseracing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Tortoiseracing/src/main/java/Tortoise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6 kyu/Tortoiseracing/src/test/java/TortoiseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 kyu/Scramblies/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 kyu/Scramblies/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,32 +17,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1479769069">
+    <session id="1772053361">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1084" />
+          <entry key="java" value="680" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1084" />
+          <entry key="JAVA" value="680" />
         </counts>
       </usages-collector>
     </session>
@@ -48,23 +54,26 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ScrambliesTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Kata.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="270">
+              <caret line="14" selection-start-line="14" selection-end-line="39" selection-end-column="1" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#1391#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Scramblies.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="198">
+              <caret line="9" column="107" selection-start-line="9" selection-start-column="105" selection-end-line="9" selection-end-column="107" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,8 +94,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/ScrambliesTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Scramblies.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Kata.java" />
       </list>
     </option>
   </component>
@@ -96,16 +105,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="283" />
-    <option name="y" value="-24" />
+    <option name="x" value="291" />
+    <option name="y" value="-17" />
     <option name="width" value="1147" />
     <option name="height" value="613" />
   </component>
@@ -115,27 +117,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Scramblies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scramblies" type="462c0819:PsiDirectoryNode" />
+              <item name="Willyousurvivethezombieonslaught" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Willyousurvivethezombieonslaught" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Scramblies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scramblies" type="462c0819:PsiDirectoryNode" />
+              <item name="Willyousurvivethezombieonslaught" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Willyousurvivethezombieonslaught" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Scramblies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scramblies" type="462c0819:PsiDirectoryNode" />
+              <item name="Willyousurvivethezombieonslaught" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Willyousurvivethezombieonslaught" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Scramblies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scramblies" type="462c0819:PsiDirectoryNode" />
+              <item name="Willyousurvivethezombieonslaught" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Willyousurvivethezombieonslaught" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -143,14 +147,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579123128455" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580680916411" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -167,19 +169,17 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ScrambliesTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Scramblies" />
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Willyousurvivethezombieonslaught" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ScrambliesTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ScrambliesTest.test" />
+        <item itemvalue="JUnit.SolutionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -188,49 +188,49 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2e87c1d4-7e7f-41ec-848a-5a221eb77289" name="Default Changelist" comment="" />
-      <created>1579117468972</created>
+      <changelist id="34e009c6-118c-45d9-bc53-ae6205f37502" name="Default Changelist" comment="" />
+      <created>1580677112890</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579117468972</updated>
-      <workItem from="1579117472615" duration="6082000" />
+      <updated>1580677112890</updated>
+      <workItem from="1580677116440" duration="4048000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ScrambliesTest_test - 2020.01.15 at 22h 59m 19s.xml">
-      <configuration name="ScrambliesTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2020.02.02 at 23h 26m 45s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrambliesTest_test - 2020.01.15 at 22h 59m 46s.xml">
-      <configuration name="ScrambliesTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2020.02.02 at 23h 26m 49s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrambliesTest_test - 2020.01.15 at 23h 03m 48s.xml">
-      <configuration name="ScrambliesTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2020.02.02 at 23h 27m 21s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrambliesTest_test - 2020.01.15 at 23h 04m 55s.xml">
-      <configuration name="ScrambliesTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2020.02.02 at 23h 29m 39s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrambliesTest_test - 2020.01.15 at 23h 05m 09s.xml">
-      <configuration name="ScrambliesTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2020.02.02 at 23h 40m 05s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrambliesTest_test - 2020.01.15 at 23h 05m 25s.xml">
-      <configuration name="ScrambliesTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2020.02.02 at 23h 41m 22s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrambliesTest_test - 2020.01.15 at 23h 10m 55s.xml">
-      <configuration name="ScrambliesTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2020.02.02 at 23h 42m 51s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrambliesTest_test - 2020.01.15 at 23h 12m 16s.xml">
-      <configuration name="ScrambliesTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2020.02.02 at 23h 44m 39s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrambliesTest_test - 2020.01.15 at 23h 13m 08s.xml">
-      <configuration name="ScrambliesTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2020.02.02 at 23h 49m 10s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScrambliesTest_test - 2020.01.15 at 23h 15m 55s.xml">
-      <configuration name="ScrambliesTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2020.02.02 at 23h 53m 48s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6082000" />
+    <option name="totallyTimeSpent" value="4048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -275,31 +275,23 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2288">
-          <caret line="2131" column="19" selection-start-line="2131" selection-start-column="19" selection-end-line="2131" selection-end-column="19" />
-          <folding>
-            <element signature="e#82971#82972#0" expanded="true" />
-            <element signature="e#83020#83021#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ScrambliesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="198">
+          <caret line="9" column="107" selection-start-line="9" selection-start-column="105" selection-end-line="9" selection-end-column="107" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Scramblies.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Kata.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="270">
+          <caret line="14" selection-start-line="14" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#1391#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
