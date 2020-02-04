@@ -14,9 +14,5 @@ Don't you think the whole "You're a(n) <insert_something_here>" is very repetiti
 Write everything in one line, \n and other whitespaces counts.
 Whatever you do, do not change what the function does. Good luck :)*/
 
-public class C {
-    public static String describeAge(int a) {
-        String f="You're a(n) ";
-        return a>64?f+"elderly":a>17?f+"adult":a>12?f+"teenager":f+"kid";
-    }
-}
+public class C{public static String describeAge(int a){
+    String f="You're a(n) ";return a>64?f+"elderly":a>17?f+"adult":a>12?f+"teenager":f+"kid";}}
