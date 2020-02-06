@@ -17,21 +17,18 @@
 class MaxDiffLength {
 
     public static int mxdiflg(String[] a1, String[] a2) {
-        String max = "", min = "000000000000000000000000000000000000000000000000000000000";
+        int temp1= a1[0].length(), temp2=a2[0].length();
 
-
-        for (String s : a1) {
-            if (s.length() < min.length()) {
-                min = s;
+        for (int i = 1; i <a1.length ; i++) {
+            if(a1[i-1].length()<a1[i].length()){
+                temp1 = a1[i].length();
+            }
+            for (int j = 1; j <a2.length ; j++) {
+            if(a2[j-1].length()<a2[j].length()){
+                temp2 = a2[j].length();
             }
         }
-        for (String s : a2) {
-            if (s.length() > max.length()) {
-                max = s;
-            }
-
-        }
-        return Math.abs(min.length() - max.length());
 
     }
-}
+             return temp1-temp2;
+    }}

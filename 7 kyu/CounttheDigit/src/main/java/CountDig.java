@@ -13,20 +13,16 @@ so there are 11 digits `1` for the squares of numbers between 0 and 25.
 
 
 public class CountDig {
-    
+
     public static int nbDig(int n, int d) {
-        int count = 0;
+      String tempStr ="";
 
 
-        for(int i = 1; i<n; i++){
-            if((i+"").contains(d+"")){
+        for (int i = 0; i <=n ; i++) {
+            tempStr += i*i;
+             }
 
-            if((i*i+"").contains(d+"")){
-                count++;
-            }}
-            n++;
+        return tempStr.length()-tempStr.replaceAll((d+""), "").length();
         }
 
-        return count;
     }
-}

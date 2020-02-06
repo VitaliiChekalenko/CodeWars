@@ -2,15 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09c4a931-08ae-46f6-94ba-5f73407c2e49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CounttheDigit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SumofOddCubedNumbers/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SumofOddCubedNumbers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SumofOddCubedNumbers/SumofOddCubedNumbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SumofOddCubedNumbers/src/main/java/FindOddCubes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SumofOddCubedNumbers/src/test/java/SolutionSampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/NumberofPeopleintheBus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/HowdoIcomparenumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/easy logs/easy logs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/easy logs/src/main/java/EasyLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/easy logs/src/test/java/EasyLogsExampleTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RemoveDuplicates/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveDuplicates/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CountDig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CountDig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CountDig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CountDig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberofPeopleintheBus/src/main/java/Metro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/src/main/java/Metro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Area of a Square/src/main/java/Geometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Area of a Square/src/main/java/Geometry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Area of a Square/target/classes/Geometry.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Area of a Square/target/classes/Geometry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/src/main/java/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/target/classes/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/target/classes/Kata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/src/main/java/Dinglemouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/src/main/java/Dinglemouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/src/test/java/ExampleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/src/test/java/ExampleTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/target/classes/Dinglemouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/target/classes/Dinglemouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/src/main/java/HowDoICompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/src/main/java/HowDoICompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Isitanumber/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Isitanumber/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Isitanumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Isitanumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Isitanumber/src/main/java/MyUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Isitanumber/src/main/java/MyUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Isitanumber/target/classes/MyUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Isitanumber/target/classes/MyUtilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/src/main/java/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/src/main/java/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/src/test/java/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/src/test/java/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/target/classes/Cube.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/target/classes/Cube.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/target/test-classes/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/target/test-classes/SolutionTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +79,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568925467513" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Factorial" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MaximumLengthDifference" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -109,6 +135,7 @@
       <workItem from="1568924651880" duration="1356000" />
       <workItem from="1569052459624" duration="80000" />
       <workItem from="1578572750735" duration="148000" />
+      <workItem from="1580994279610" duration="1111000" />
     </task>
     <servers />
   </component>
@@ -120,29 +147,56 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578572816674" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1578572895455">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1580995389826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578572895455" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1578572899963">
+    <state x="740" y="275" key="FileChooserDialogImpl/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580995389826" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1580995390842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578572899963" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1578572899963">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580995390842" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1580995390842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578572899963" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1578572899963">
+    <state width="1877" height="347" key="GridCell.Tab.0.center/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580995390842" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1580995390842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578572899963" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1578572899963">
+    <state width="1877" height="347" key="GridCell.Tab.0.left/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580995390842" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1580995390842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578572899963" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580995390842" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1580995390843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580995390843" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1580995390842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580995390842" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1580995390842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580995390842" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1580995390842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580995390842" />
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1578572751585">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578572751585" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CountDig.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,10 +1,10 @@
 public class MyUtilities {
 
     public boolean isDigit(String s) {
-
-        if(s.contains("\\s") ){
+        try {
+            Double.parseDouble(s);
+            return true;
+        } catch (NumberFormatException e) {
             return false;
         }
-        return  s.contains("\\d");
-    }
-}
+}}

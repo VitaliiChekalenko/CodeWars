@@ -1,11 +1,11 @@
 public class Cube {
-    private Integer Side = 0;
+    private int side = 0;
 
-    public Integer getSide() {
-        return Side;
+    public int getSide() {
+        return side;
     }
 
-    public void setSide(Integer side) {
-        Side = side;
+    public void setSide(int side) {
+        this.side = side;
     }
 }

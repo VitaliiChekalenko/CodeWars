@@ -15,13 +15,14 @@ import java.util.ArrayList;
 
 class Metro {
 
-  public static int countPassengers(ArrayList<int[]> stops) {
-  int in = 0, out = 0;
-  int[][] s = stops.toArray(new int[1][1]);
-    for (int i = 0; i <stops.size() ; i++) {
-      in += s[0];
-      out+= s[1];
+    public static int countPassengers(ArrayList<int[]> stops) {
+        int res = 0;
+        for (int[] s : stops) {
+            res += s[0] - s[1];
+            if (res < 0) {
+                res = 0;
+            }
+        }
+        return res;
     }
-    return in-out;
-  }
 }

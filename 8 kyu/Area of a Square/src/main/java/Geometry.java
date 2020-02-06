@@ -6,6 +6,6 @@ Note: use the π value provided in your language (Math::PI, M_PI, math.pi, etc)*
 
 public class Geometry{
   public static double squareArea(double A){
-    return ;("%8.2f", Math.pow((A*2.26), 2)/(4*Math.PI));
+    return Double.parseDouble(String.format("%.2f", (Math.pow((2 * A )/ Math.PI, 2))).replace(',', '.'));
   }
 }

@@ -2,15 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42486e28-326a-455f-9906-f4df69756e12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/NumberofPeopleintheBus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/HowdoIcomparenumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/easy logs/easy logs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/easy logs/src/main/java/EasyLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/easy logs/src/test/java/EasyLogsExampleTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CounttheDigit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CounttheDigit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CounttheDigit/src/main/java/CountDig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CounttheDigit/src/main/java/CountDig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CounttheDigit/target/classes/CountDig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CounttheDigit/target/classes/CountDig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MaxDiffLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaxDiffLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MaxDiffLengthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MaxDiffLengthTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MaxDiffLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MaxDiffLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberofPeopleintheBus/src/main/java/Metro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/src/main/java/Metro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Area of a Square/src/main/java/Geometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Area of a Square/src/main/java/Geometry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Area of a Square/target/classes/Geometry.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Area of a Square/target/classes/Geometry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/src/main/java/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/target/classes/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/target/classes/Kata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/src/main/java/Dinglemouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/src/main/java/Dinglemouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/src/test/java/ExampleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/src/test/java/ExampleTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/target/classes/Dinglemouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/target/classes/Dinglemouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/src/main/java/HowDoICompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/src/main/java/HowDoICompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Isitanumber/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Isitanumber/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Isitanumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Isitanumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Isitanumber/src/main/java/MyUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Isitanumber/src/main/java/MyUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/Isitanumber/target/classes/MyUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Isitanumber/target/classes/MyUtilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/src/main/java/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/src/main/java/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/src/test/java/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/src/test/java/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/target/classes/Cube.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/target/classes/Cube.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/target/test-classes/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/target/test-classes/SolutionTest.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,93 +50,8 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/MaximumLengthDifference$MaxDiffLengthTest.ic" NAME="MaxDiffLengthTest Coverage Results" MODIFIED="1569053588797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="600700078">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="462" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="462" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MaxDiffLength.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/MaxDiffLengthTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="52" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../../FlappyBird-master/FlappyBird-master" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../java/projects/FlappyBird" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/java/MaxDiffLengthTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MaxDiffLength.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -114,49 +60,12 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
-  </component>
+  <component name="ProjectId" id="1XR45huGXeomnlXbp4NRYze2u3F" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MaximumLengthDifference" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MaximumLengthDifference" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MaximumLengthDifference" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MaximumLengthDifference" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MaximumLengthDifference" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MaximumLengthDifference" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MaximumLengthDifference" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MaximumLengthDifference" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -166,23 +75,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="MaxDiffLengthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MaximumLengthDifference" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MaxDiffLengthTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -192,6 +90,18 @@
         <item itemvalue="JUnit.MaxDiffLengthTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -205,122 +115,64 @@
       <updated>1555515690765</updated>
       <workItem from="1555515692885" duration="1447000" />
       <workItem from="1569052544380" duration="1860000" />
+      <workItem from="1580995393124" duration="2171000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="MaxDiffLengthTest - 2019.09.21 at 11h 12m 07s.xml">
-      <configuration name="MaxDiffLengthTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffLengthTest - 2019.09.21 at 11h 13m 13s.xml">
-      <configuration name="MaxDiffLengthTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffLengthTest - 2019.09.21 at 11h 16m 09s.xml">
-      <configuration name="MaxDiffLengthTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffLengthTest - 2019.09.21 at 11h 16m 44s.xml">
-      <configuration name="MaxDiffLengthTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffLengthTest - 2019.09.21 at 11h 16m 52s.xml">
-      <configuration name="MaxDiffLengthTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffLengthTest - 2019.09.21 at 11h 17m 15s.xml">
-      <configuration name="MaxDiffLengthTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffLengthTest - 2019.09.21 at 11h 18m 45s.xml">
-      <configuration name="MaxDiffLengthTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffLengthTest - 2019.09.21 at 11h 18m 56s.xml">
-      <configuration name="MaxDiffLengthTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffLengthTest - 2019.09.21 at 11h 19m 48s.xml">
-      <configuration name="MaxDiffLengthTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffLengthTest - 2019.09.21 at 11h 22m 11s.xml">
-      <configuration name="MaxDiffLengthTest" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3307000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1580998091262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580998091262" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1580998104395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580998104395" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1580998104395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.center/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580998104395" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1580998104395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.left/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580998104395" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1580998104395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.right/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580998104395" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1580998104396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580998104396" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1580998104395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580998104395" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1580998104395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580998104395" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1580998104395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580998104395" />
+    <state x="342" y="222" key="new project wizard" timestamp="1580998102785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="222" key="new project wizard/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580998102785" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/MaxDiffLength.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="2" />
+          <line>19</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-beta-3/junit-4.13-beta-3.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MaxDiffLengthTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="52" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MaxDiffLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
