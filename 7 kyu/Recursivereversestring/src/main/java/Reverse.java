@@ -19,12 +19,27 @@ reverse("abcd") = "dcba" (N = 4)
 reverse("12345") = "54321" (N = 5)
 All tests for this Kata are randomly generated, besides checking the reverse logic they will count how many times the reverse() function has been executed.*/
 
+
+
+//public class Reverse {
+//
+//    public String reverse(String str) {
+//        return (str.length()%2==0)? str: new StringBuilder(str).reverse().toString();
+//    }
+//}
+
+//public class Reverse {
+//
+//    public String reverse(String str) {
+//        String s = new StringBuilder(str).reverse().toString();
+//
+//        int num = str.length()-1;
+//       return num<=1? new StringBuilder(str).reverse().toString():reverse(s);
+//    }}
 public class Reverse {
 
     public String reverse(String str) {
-        String s = new StringBuilder(str).reverse().toString();
 
-        int num = str.length()-1;
-       return num<=1? new StringBuilder(str).reverse().toString():reverse(s);
+        return str.length()<=1? str: reverse(str.substring(1)+str.charAt(0));
     }
 }

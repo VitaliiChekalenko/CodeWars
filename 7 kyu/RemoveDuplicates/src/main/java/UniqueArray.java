@@ -17,15 +17,24 @@ import java.util.*;
 public class UniqueArray {
     public static int[] unique(int[] integers) {
 
+        if(integers.length==0) return new int[]{};
 
-        TreeSet<Integer> nums = new TreeSet<Integer>();
-        for (int s : integers) {
-            nums.add(s);
+        List<Integer> n = new ArrayList<Integer>();
+        n.add(integers[0]);
+
+        for (Integer r : integers) {
+            if(n.contains(r)){
+                continue;
+            }
+            n.add(r);
         }
-        int[] done = new int[nums.size()];
-        for (int i=0; i<done.length; i++ ) {
-            done[i] = nums[i];
+
+        int[] s = new int[n.size()];
+        for (int i = 0; i <n.size() ; i++) {
+
+            s[i] = n.get(i);
+
         }
-        return integers;
+        return s;
     }
-    }
+}

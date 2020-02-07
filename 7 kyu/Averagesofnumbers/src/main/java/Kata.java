@@ -10,18 +10,33 @@ If the array has 0 or 1 values or is null or None, your method should return an 
 
 Have fun coding it and please don't forget to vote and rank this kata! :-)*/
 
+
 public class Kata {
     public static double[] averages(int[] numbers) {
+        if(numbers==null || numbers.length<2) return new double[]{};
 
-        if (numbers.length <2|| numbers.equals(new double[0])|| numbers == null) return new double[0];
+        double[] n = new double[numbers.length-1];
 
-        double[] nums = new double[numbers.length - 1];
-
-        for (int i = 1; i < numbers.length; i++) {
-
-            nums[i - 1] = ((double) numbers[i - 1] + (double) numbers[i]) / 2;
-
+        for (int i = 0; i <numbers.length-1 ; i++) {
+            n[i] = (float)(numbers[i]+numbers[i+1])/2;
         }
-        return nums;
+        return n;
     }
 }
+
+
+//public class Kata {
+//    public static double[] averages(int[] numbers) {
+//
+//        if (numbers.length <2|| numbers.equals(new double[0])|| numbers == null) return new double[0];
+//
+//        double[] nums = new double[numbers.length - 1];
+//
+//        for (int i = 1; i < numbers.length; i++) {
+//
+//            nums[i - 1] = ((double) numbers[i - 1] + (double) numbers[i]) / 2;
+//
+//        }
+//        return nums;
+//    }
+//}

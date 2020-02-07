@@ -1,52 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64143543-5bec-4e2b-b413-8d417cf9da4b" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="64143543-5bec-4e2b-b413-8d417cf9da4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Anagram Detection/Anagram Detection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anagram Detection/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anagram Detection/src/test/java/KataTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Averagesofnumbers/.idea/Averagesofnumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flatten and sort an array/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flatten and sort an array/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursivereversestring/.idea/Recursivereversestring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Speed Control/Speed Control.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Speed Control/src/main/java/GpsSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Speed Control/src/test/java/GpsSpeedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Averagesofnumbers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Averagesofnumbers/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Averagesofnumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Averagesofnumbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Averagesofnumbers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Averagesofnumbers/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Averagesofnumbers/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Averagesofnumbers/src/main/java/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Averagesofnumbers/target/classes/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Averagesofnumbers/target/classes/Kata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Partsofalist/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Partsofalist/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Partsofalist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Partsofalist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursivereversestring/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursivereversestring/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursivereversestring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursivereversestring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursivereversestring/src/main/java/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursivereversestring/src/main/java/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursivereversestring/target/classes/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursivereversestring/target/classes/Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UniqueArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UniqueArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UniqueArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UniqueArray.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/UniqueArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/UniqueArray_Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/java/UniqueArray_Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/UniqueArray.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -55,70 +43,22 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="802" />
-    <option name="y" value="95" />
-    <option name="width" value="1125" />
-    <option name="height" value="876" />
-  </component>
+  <component name="ProjectId" id="1XUOI98KNNCngLHuPHZxPWQUP9r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="RemoveDuplicates" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RemoveDuplicates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RemoveDuplicates" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RemoveDuplicates" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RemoveDuplicates" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RemoveDuplicates" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RemoveDuplicates" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RemoveDuplicates" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578313485796" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Countingpowersets" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="UniqueArray_Test.test_uniqueArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -137,6 +77,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -150,74 +102,37 @@
       <workItem from="1578313027150" duration="519000" />
       <workItem from="1578313609023" duration="866000" />
       <workItem from="1578472771097" duration="34000" />
+      <workItem from="1581097125442" duration="1061000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="UniqueArray_Test_test_uniqueArray - 2020.01.06 at 14h 22m 36s.xml">
-      <configuration name="UniqueArray_Test.test_uniqueArray" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1419000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997833" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/UniqueArray_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/UniqueArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-          <folding>
-            <element signature="e#1017#1026#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1581097143828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1581097143828" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581098276989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1581098276989" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581098277976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1581098277976" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581098277975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1581098277975" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581098277975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1581098277975" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581098277975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1366.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1581098277975" />
   </component>
 </project>
