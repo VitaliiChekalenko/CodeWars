@@ -1,81 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d5adfdf-1c32-4b83-9445-0416d4e23772" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/MaketheDeadfishswim/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/MaketheDeadfishswim/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/MaketheDeadfishswim/src/main/java/DeadFish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/MaketheDeadfishswim/src/test/java/ExampleTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Alphabetwar/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Alphabetwar/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Alphabetwar/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Alphabetwar/src/test/java/AlphabetWarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BalancedNumberSpecialNumbersSeries1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BalancedNumberSpecialNumbersSeries1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BalancedNumberSpecialNumbersSeries1/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BalancedNumberSpecialNumbersSeries1/src/test/java/Solution_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buildingblocks/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buildingblocks/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buildingblocks/src/main/java/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buildingblocks/src/test/java/BlockTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BumpsintheRoad/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BumpsintheRoad/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BumpsintheRoad/src/main/java/BumpsTheRoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BumpsintheRoad/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CompleteThePattern2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CompleteThePattern2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CompleteThePattern2/src/main/java/CompleteThePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CompleteThePattern2/src/test/java/CompleteThePatternTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FindCountofMostFrequentIteminanArray/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FindCountofMostFrequentIteminanArray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FindCountofMostFrequentIteminanArray/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FindCountofMostFrequentIteminanArray/src/test/java/FrequentExampleTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FormTheLargest/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FormTheLargest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FormTheLargest/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FormTheLargest/src/test/java/SampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Goingtothecinema/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Goingtothecinema/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Goingtothecinema/src/main/java/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Goingtothecinema/src/test/java/MovieTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaximumProduct/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaximumProduct/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaximumProduct/src/main/java/MaxProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaximumProduct/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WordSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WordSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RowWeights/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RowWeights/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RowWeights/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RowWeights/src/test/java/Row_Weights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleFun152InviteMoreWomen/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleFun152InviteMoreWomen/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleFun74GrowingPlant/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleFun74GrowingPlant/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleFun74GrowingPlant/src/main/java/SimpleFun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleFun74GrowingPlant/src/test/java/SampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SmallenoughBeginner/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SmallenoughBeginner/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SmallenoughBeginner/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SmallenoughBeginner/src/test/java/KataTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Smallestvalueofanarray/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Smallestvalueofanarray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Smallestvalueofanarray/src/main/java/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Smallestvalueofanarray/src/test/java/TestSmallestValueInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ToLeetSpeak/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ToLeetSpeak/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ToLeetSpeak/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ToLeetSpeak/src/test/java/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SumofOddCubedNumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SumofOddCubedNumbers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SumofOddCubedNumbers/SumofOddCubedNumbers.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SumofOddCubedNumbers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SumofOddCubedNumbers/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SumofOddCubedNumbers/src/main/java/FindOddCubes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SumofOddCubedNumbers/src/main/java/FindOddCubes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SumofOddCubedNumbers/target/classes/FindOddCubes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SumofOddCubedNumbers/target/classes/FindOddCubes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SumofOddCubedNumbers/target/test-classes/SolutionSampleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SumofOddCubedNumbers/target/test-classes/SolutionSampleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/_8kyuinterpretersHQ9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/_8kyuinterpretersHQ9/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2d5adfdf-1c32-4b83-9445-0416d4e23772" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,9 +14,10 @@
     <session id="1740605966">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -118,7 +45,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
@@ -131,7 +58,6 @@
               <caret line="13" selection-start-line="13" selection-end-line="34" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#842#850#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,7 +66,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/WordSearchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
+            <state relative-caret-position="352">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -189,7 +115,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,6 +143,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,6 +206,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581285573802</updated>
       <workItem from="1581285576093" duration="1374000" />
+      <workItem from="1581322276055" duration="94000" />
     </task>
     <servers />
   </component>
@@ -316,23 +243,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1374000" />
+    <option name="totallyTimeSpent" value="1468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.329718" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
@@ -340,15 +262,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,9 +297,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -380,20 +304,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/WordSearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/ComparisonCriteria.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
           <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WordSearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
