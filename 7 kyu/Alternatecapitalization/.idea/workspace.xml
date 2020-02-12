@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df5879dd-1174-4292-b116-39ad4a73fe5b" name="Default Changelist" comment="" />
+    <list default="true" id="6854e64d-3c92-4cde-b4ca-b046f6b6d298" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIXMEGetFullName/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIXMEGetFullName/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIXMEGetFullName/src/main/java/Dinglemouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIXMEGetFullName/src/test/java/ExampleTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greatestcommondivisor/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greatestcommondivisor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greatestcommondivisor/src/main/java/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greatestcommondivisor/src/test/java/GreatestCommonDivisorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Howmanyarguments/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Howmanyarguments/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Howmanyarguments/src/main/java/Arguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Howmanyarguments/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Howmanyeggs/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Howmanyeggs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOfMaximumsOfArrayArraySeries2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOfMaximumsOfArrayArraySeries2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOfMaximumsOfArrayArraySeries2/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOfMaximumsOfArrayArraySeries2/src/test/java/ProductOfMaximumsOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleFun37HouseNumbersSum/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleFun37HouseNumbersSum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleFun37HouseNumbersSum/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleFun37HouseNumbersSum/src/test/java/SampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Insertdashes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Insertdashes/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,12 +39,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1626937459">
+    <session id="532550220">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
@@ -32,12 +60,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="189" />
+          <entry key="java" value="135" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="189" />
+          <entry key="JAVA" value="135" />
         </counts>
       </usages-collector>
     </session>
@@ -52,11 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="11" selection-start-line="11" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="44">
+              <caret line="18" selection-start-line="18" selection-end-line="40" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -65,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -114,23 +139,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="Insertdashes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Insertdashes" type="462c0819:PsiDirectoryNode" />
+              <item name="Alternatecapitalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alternatecapitalization" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Insertdashes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Insertdashes" type="462c0819:PsiDirectoryNode" />
+              <item name="Alternatecapitalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alternatecapitalization" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Insertdashes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Insertdashes" type="462c0819:PsiDirectoryNode" />
+              <item name="Alternatecapitalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alternatecapitalization" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Insertdashes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Insertdashes" type="462c0819:PsiDirectoryNode" />
+              <item name="Alternatecapitalization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alternatecapitalization" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -144,7 +169,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581373054835" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581528673788" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -162,7 +187,7 @@
   </component>
   <component name="RunManager">
     <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Insertdashes" />
+      <module name="Alternatecapitalization" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
       <method v="2">
@@ -180,35 +205,44 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="df5879dd-1174-4292-b116-39ad4a73fe5b" name="Default Changelist" comment="" />
-      <created>1581372524514</created>
+      <changelist id="6854e64d-3c92-4cde-b4ca-b046f6b6d298" name="Default Changelist" comment="" />
+      <created>1581528169226</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581372524514</updated>
-      <workItem from="1581372529671" duration="1047000" />
-      <workItem from="1581457622618" duration="21000" />
+      <updated>1581528169226</updated>
+      <workItem from="1581528171638" duration="1058000" />
+      <workItem from="1581536161023" duration="530000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest - 2020.02.11 at 00h 14m 31s.xml">
+    <history-entry file="SolutionTest - 2020.02.12 at 19h 27m 33s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2020.02.11 at 00h 15m 57s.xml">
+    <history-entry file="SolutionTest - 2020.02.12 at 19h 28m 10s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2020.02.11 at 00h 16m 26s.xml">
+    <history-entry file="SolutionTest - 2020.02.12 at 19h 28m 45s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2020.02.11 at 00h 16m 52s.xml">
+    <history-entry file="SolutionTest - 2020.02.12 at 19h 29m 01s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2020.02.11 at 00h 17m 28s.xml">
+    <history-entry file="SolutionTest - 2020.02.12 at 21h 38m 40s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.02.12 at 21h 39m 04s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.02.12 at 21h 39m 13s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.02.12 at 21h 39m 59s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1068000" />
+    <option name="totallyTimeSpent" value="1588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -256,17 +290,14 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="11" selection-start-line="11" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="44">
+          <caret line="18" selection-start-line="18" selection-end-line="40" selection-end-column="1" />
         </state>
       </provider>
     </entry>
