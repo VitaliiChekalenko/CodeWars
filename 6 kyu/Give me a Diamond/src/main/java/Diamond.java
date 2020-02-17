@@ -27,14 +27,18 @@ https://www.codewars.com/kata/5503013e34137eeeaa001648/train/java
 
 */
 
+import java.util.Collections;
+
 class Diamond {
     public static String print(int n) {
+        if ((n<1 || n%2!=1) )return null;
         String s = " ";
-        System.out.println(s.repe);
 
-        for (int i = 0; i < n; i += 2) {
-          s+= ("*").repeate
+
+        for (int i = 1; i < n; i += 2) {
+          s+= String.join("", Collections.nCopies(i,"*" ))+"\n";
         }
-
+    return s;
     }
+
 }
