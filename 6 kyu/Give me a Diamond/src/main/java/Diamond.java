@@ -29,12 +29,17 @@ https://www.codewars.com/kata/5503013e34137eeeaa001648/train/java
 
 class Diamond {
     public static String print(int n) {
-        String s = " ";
-        System.out.println(s.repe);
+        if(n<=0 || n%2==0) return null;
+        String s = "";
 
-        for (int i = 0; i < n; i += 2) {
-          s+= ("*").repeate
+        for (int i = 1; i <= n; i += 2) {
+          s+= new String(new char[(n-i)/2]).replace("\0", " ") ;
+            s+= new String(new char[i]).replace("\0", "*") + "\n";
+        }
+        for (int i = n-2; i >0; i -= 2) {
+            s+= new String(new char[(n-i)/2]).replace("\0", " ") ;
+            s+= new String(new char[i]).replace("\0", "*") + "\n";
         }
 
-    }
+    return s;}
 }
