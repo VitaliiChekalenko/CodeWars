@@ -3,16 +3,16 @@
 //https://www.codewars.com/kata/57a1d5ef7cb1f3db590002af/train/java
 
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Fibonacci {
     static long fib(int n) {
-        long a = 0, b = 1, c = 0, sum = 0;
-
-        while (c < n) {
-            c = a + b;
+        int a = 1, b = 1, tmp;
+        while (n-- > 0) {
+            tmp = a;
             a = b;
-            sum += b;
-            b = c;
+            b += tmp;
         }
-        sum += c;
-        return sum;
+        return a;
     }}

@@ -31,6 +31,7 @@ import java.util.Collections;
 
 class Diamond {
     public static String print(int n) {
+<<<<<<< HEAD
         if ((n<1 || n%2!=1) )return null;
         String s = " ";
 
@@ -41,4 +42,19 @@ class Diamond {
     return s;
     }
 
+=======
+        if(n<=0 || n%2==0) return null;
+        String s = "";
+
+        for (int i = 1; i <= n; i += 2) {
+          s+= new String(new char[(n-i)/2]).replace("\0", " ") ;
+            s+= new String(new char[i]).replace("\0", "*") + "\n";
+        }
+        for (int i = n-2; i >0; i -= 2) {
+            s+= new String(new char[(n-i)/2]).replace("\0", " ") ;
+            s+= new String(new char[i]).replace("\0", "*") + "\n";
+        }
+
+    return s;}
+>>>>>>> 011eb2f06445e33d42b9fa406c259831d2517375
 }

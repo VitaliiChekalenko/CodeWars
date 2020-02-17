@@ -25,25 +25,25 @@ public class DiamondTest {
       assertEquals(expected.toString(), Diamond.print(5));
     }  
     
-    @Test
-    public void testDiamond1() {
-      StringBuffer expected = new StringBuffer();
-      expected.append("*\n");
-      assertEquals(expected.toString(), Diamond.print(1));
-    }  
-    
-    @Test
-    public void testDiamond0() {
-      assertEquals(null, Diamond.print(0));
-    } 
-    
-    @Test
-    public void testDiamondMinus2() {
-      assertEquals(null, Diamond.print(-2));
-    }
-    
-    @Test
-    public void testDiamond2() {
-      assertEquals(null, Diamond.print(2));
-    }    
+//    @Test
+//    public void testDiamond1() {
+//      StringBuffer expected = new StringBuffer();
+//      expected.append("*\n");
+//      assertEquals(expected.toString(), Diamond.print(1));
+//    }
+//
+//    @Test
+//    public void testDiamond0() {
+//      assertEquals(null, Diamond.print(0));
+//    }
+//
+//    @Test
+//    public void testDiamondMinus2() {
+//      assertEquals(null, Diamond.print(-2));
+//    }
+//
+//    @Test
+//    public void testDiamond2() {
+//      assertEquals(null, Diamond.print(2));
+//    }
 }

@@ -24,6 +24,13 @@ public class StripComments {
 
 	public static String stripComments(String text, String[] commentSymbols) {
 
+		System.out.println(text);
+		System.out.println(" ");
+		System.out.println(" ");
+		for (int i = 0; i <commentSymbols.length ; i++) {
+			System.out.println(commentSymbols[i]);
+		}
+
 		String s = "";
 		String[] str = text.split("");
 
@@ -33,10 +40,11 @@ public class StripComments {
 			for (int j = 0; j < commentSymbols.length; j++) {
 
 			if(str[i].equals(commentSymbols[j])) {
+
 				if(str[i-1].equals(" ")){
 					s= s.substring(0, i-1);
 				}
-				while (!str[i].equals("\n")){
+				while (!str[i].equals("\n")  ){
 					i++;
 				}
 
