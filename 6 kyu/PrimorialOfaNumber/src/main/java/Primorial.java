@@ -31,27 +31,77 @@ Zizou
 
 https://www.codewars.com/kata/5a99a03e4a6b34bb3c000124/train/java*/
 
+
 import java.math.BigInteger;
 
 public class Primorial {
 
-    public static String numPrimorial(int n) {
-        long primorial = 1, factor = 1;
+    final static int sieveLimit = 1300_000;
+    static boolean[] notPrime = sieve(sieveLimit);
 
-        while (n != 0) {
-            factor++;
-            boolean isPrime = true;
-            for (int i = 2; i < factor; i++) {
-                if (factor % i == 0) {
-                    isPrime = false;
-                    break;
+    public static void main(String[] args) {
+        for (int i = 0; i < 10; i++)
+            System.out.printf("numPrimorial(%d): %d%n", i, numPrimorial(i));
+
+        for (int i = 1; i < 6; i++) {
+            int len = numPrimorial((int) Math.pow(10, i)).toString().length();
+            System.out.printf("numPrimorial(10^%d) has length %d%n", i, len);
+        }
+    }
+
+    static String numPrimorial(int n) {
+        if (n == 0)
+            return BigInteger.ONE+"";
+
+        BigInteger result = BigInteger.ONE;
+        for (int i = 0; i < sieveLimit && n > 0; i++) {
+            if (notPrime[i])
+                continue;
+            result = result.multiply(BigInteger.valueOf(i));
+            n--;
+        }
+        return result+"";
+    }
+
+    public static boolean[] sieve(int limit) {
+        boolean[] composite = new boolean[limit];
+        composite[0] = composite[1] = true;
+
+        int max = (int) Math.sqrt(limit);
+        for (int n = 2; n <= max; n++) {
+            if (!composite[n]) {
+                for (int k = n * n; k < limit; k += n) {
+                    composite[k] = true;
                 }
             }
-            if (isPrime == true) {
-                n--;
-                primorial *= factor;
-            }
         }
-        return String.valueOf(primorial);
+        return composite;
     }
 }
+
+
+
+//import java.math.BigInteger;
+//
+//public class Primorial {
+//
+//    public static String numPrimorial(int n) {
+//        long primorial = 1, factor = 1;
+//
+//        while (n != 0) {
+//            factor++;
+//            boolean isPrime = true;
+//            for (int i = 2; i < factor; i++) {
+//                if (factor % i == 0) {
+//                    isPrime = false;
+//                    break;
+//                }
+//            }
+//            if (isPrime == true) {
+//                n--;
+//                primorial *= factor;
+//            }
+//        }
+//        return String.valueOf(primorial);
+//    }
+//}
