@@ -32,20 +32,25 @@ Finally, take that sum and divide it by 10. If the remainder equals zero, the or
 
   */
 
+import java.util.stream.IntStream;
+
 public class Validate{
   public static boolean validate(String n){
 
     String[] s = n.split("");
     int[] num = new int[s.length];
-    for (int i = 0; i < s.length; i++) {
-      num[i] = Integer.parseInt(s[i]);
-    }
-
-    for (int i = 1; i <s.length ; i+=2) {
-      if(num[i]*2 >10){
-        continue;
+    try {
+      for (int i = 0; i < s.length; i++) {
+        num[i] = Integer.parseInt(s[i]);
       }
-      num[i] *=2;
+      for (int i = s.length-2; i >= 0 ; i -= 2) {
+        if (num[i] * 2 > 10) {
+          continue;
+        }
+        num[i] *= 2;
+      }
+    }catch (IndexOutOfBoundsException e){
     }
+    return IntStream.of(num).sum()%10==0;
   }
 }

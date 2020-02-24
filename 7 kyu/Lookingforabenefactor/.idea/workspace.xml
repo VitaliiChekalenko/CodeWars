@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d18261a-2aee-4911-8e0f-a6da6e2a95e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../4 kyu/TheobservedPIN/.idea/TheobservedPIN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../4 kyu/TheobservedPIN/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../4 kyu/TheobservedPIN/src/main/java/ObservedPin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../4 kyu/TheobservedPIN/src/test/java/TestObservedPin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../5 kyu/DoubleCola/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../5 kyu/DoubleCola/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../5 kyu/DoubleCola/src/main/java/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../5 kyu/DoubleCola/src/test/java/ListTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../5 kyu/Primesinnumbers/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../5 kyu/Primesinnumbers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../5 kyu/Primesinnumbers/src/main/java/PrimeDecomp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../5 kyu/Primesinnumbers/src/test/java/PrimeDecompTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/EvilAutocorrectPrank/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/EvilAutocorrectPrank/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/EvilAutocorrectPrank/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/EvilAutocorrectPrank/src/test/java/AutocorrectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/ValidPhoneNumber/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/ValidPhoneNumber/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/ValidPhoneNumber/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../6 kyu/ValidPhoneNumber/src/test/java/PhoneExampleTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NewAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NewAverageTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="3d18261a-2aee-4911-8e0f-a6da6e2a95e2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,6 +14,7 @@
     <session id="-1451870054">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -120,7 +96,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="802" />
     <option name="y" value="95" />
     <option name="width" value="1125" />
@@ -167,7 +143,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582492252523" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582549871908" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -208,7 +185,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582491059125</updated>
-      <workItem from="1582491062096" duration="1785000" />
+      <workItem from="1582491062096" duration="1792000" />
     </task>
     <servers />
   </component>
@@ -245,11 +222,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1785000" />
+    <option name="totallyTimeSpent" value="1792000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -265,7 +241,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
