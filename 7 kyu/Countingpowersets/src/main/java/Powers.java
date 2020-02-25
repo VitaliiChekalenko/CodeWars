@@ -28,28 +28,11 @@ Powers.powers(new int[]{1,2});     // 4
 Powers.powers(new int[]{1,2,3,4}); // 16*/
 
 import java.math.BigInteger;
-import java.util.ArrayList;
-import java.util.List;
 
 public class Powers {
     public static BigInteger powers(int[] list) {
 
-      return
-//        if (list.length == 0) return BigInteger.valueOf(1);
-//        if (list.length == 1) return BigInteger.valueOf(2);
-//
-//        List<Integer> n = new ArrayList<Integer>();
-//        for (int i = 0; i < list.length; i++) {
-//            if (n.contains(list[i])) {
-//                continue;
-//            }
-//            n.add(list[i]);
-//        }
-//        int[] a = new int[n.size()];
-//      for (int i = 0; i <n.size() ; i++) {
-//        a[i] = n.get(i);
-//      }
-//        return BigInteger.valueOf(1 + a.length  + 1);
+      return BigInteger.valueOf(2).pow(list.length);
     }
 }
 

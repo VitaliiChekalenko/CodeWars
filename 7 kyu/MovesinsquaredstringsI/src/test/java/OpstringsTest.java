@@ -13,7 +13,7 @@ public class OpstringsTest {
         System.out.println("Fixed Tests vertMirror");
         String s = "hSgdHQ\nHnDMao\nClNNxX\niRvxxH\nbqTVvA\nwvSyRu";
         String r = "QHdgSh\noaMDnH\nXxNNlC\nHxxvRi\nAvVTqb\nuRySvw";
-        testing(Opstrings.oper(Opstrings::vertMirror, s), r);
+        testing(Opstrings.oper(String operator, s), r);
         s = "IzOTWE\nkkbeCM\nWuzZxM\nvDddJw\njiJyHF\nPVHfSx";
         r = "EWTOzI\nMCebkk\nMxZzuW\nwJddDv\nFHyJij\nxSfHVP";
         testing(Opstrings.oper(Opstrings::vertMirror, s), r);

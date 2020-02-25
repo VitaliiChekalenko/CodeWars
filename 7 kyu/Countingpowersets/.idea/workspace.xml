@@ -2,36 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ecbd838-5401-4a54-b9e4-7d9214e7d358" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Anagram Detection/Anagram Detection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Anagram Detection/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Anagram Detection/src/test/java/KataTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Averagesofnumbers/.idea/Averagesofnumbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flatten and sort an array/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flatten and sort an array/src/test/java/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recursivereversestring/.idea/Recursivereversestring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Speed Control/Speed Control.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Speed Control/src/main/java/GpsSpeed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Speed Control/src/test/java/GpsSpeedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Averagesofnumbers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Averagesofnumbers/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Averagesofnumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Averagesofnumbers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Averagesofnumbers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Averagesofnumbers/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Averagesofnumbers/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Averagesofnumbers/src/main/java/Kata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Averagesofnumbers/target/classes/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Averagesofnumbers/target/classes/Kata.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/AreaorPerimeter/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/AreaorPerimeter/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/src/main/java/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Countingpowersets.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Powers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Powers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Powers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Powers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Partsofalist/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Partsofalist/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Partsofalist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Partsofalist/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recursivereversestring/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursivereversestring/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recursivereversestring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursivereversestring/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recursivereversestring/src/main/java/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursivereversestring/src/main/java/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recursivereversestring/target/classes/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursivereversestring/target/classes/Reverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RemoveDuplicates/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveDuplicates/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RemoveDuplicates/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveDuplicates/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RemoveDuplicates/src/main/java/UniqueArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveDuplicates/src/main/java/UniqueArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RemoveDuplicates/target/classes/UniqueArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveDuplicates/target/classes/UniqueArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaximumLengthDifference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumLengthDifference/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaximumLengthDifference/MaximumLengthDifference.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaximumLengthDifference/src/main/java/MaxDiffLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumLengthDifference/src/main/java/MaxDiffLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaximumLengthDifference/src/test/java/MaxDiffLengthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumLengthDifference/src/test/java/MaxDiffLengthTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaximumLengthDifference/target/classes/MaxDiffLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumLengthDifference/target/classes/MaxDiffLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaximumLengthDifference/target/test-classes/MaxDiffLengthTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumLengthDifference/target/test-classes/MaxDiffLengthTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovesinsquaredstringsI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MovesinsquaredstringsI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovesinsquaredstringsI/MovesinsquaredstringsI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovesinsquaredstringsI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MovesinsquaredstringsI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovesinsquaredstringsI/src/main/java/Opstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MovesinsquaredstringsI/src/main/java/Opstrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovesinsquaredstringsI/src/test/java/OpstringsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MovesinsquaredstringsI/src/test/java/OpstringsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/DuckDuckGoose.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/src/main/java/Kata.java" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,9 +51,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578342686805" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rotate for a Max" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="PowersTest.testPactical" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -79,18 +84,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -103,11 +96,23 @@
       <updated>1578341291178</updated>
       <workItem from="1578341295108" duration="1520000" />
       <workItem from="1581098279843" duration="734000" />
+      <workItem from="1582651027716" duration="323000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581098390031">

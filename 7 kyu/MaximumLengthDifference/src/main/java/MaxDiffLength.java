@@ -14,21 +14,36 @@
 //        output: number as a string
 
 
+import java.util.Arrays;
+
 class MaxDiffLength {
 
     public static int mxdiflg(String[] a1, String[] a2) {
-        int temp1= a1[0].length(), temp2=a2[0].length();
 
-        for (int i = 1; i <a1.length ; i++) {
-            if(a1[i-1].length()<a1[i].length()){
-                temp1 = a1[i].length();
+        sou
+        int tempBig1= a1[0].length(), tempBig2=a2[0].length();
+        int tempSma1= a1[0].length(), tempSma2=a2[0].length();
+        int[] s = new int[4];
+
+        for (int i = 0; i < a1.length ; i++) {
+            if(tempBig1<=a1[i].length()){
+                s[0]= a1[i].length();
             }
-            for (int j = 1; j <a2.length ; j++) {
-            if(a2[j-1].length()<a2[j].length()){
-                temp2 = a2[j].length();
+            if(tempSma1>=a1[i].length()){
+                s[1]= a1[i].length();
             }
         }
+        for (int i = 0; i < a2.length ; i++) {
+            if(tempBig2<=a2[i].length()){
+                s[2]= a2[i].length();
+            }
+            if(tempSma2>=a2[i].length()){
+                s[3]= a2[i].length();
+            }
+        }
+        Arrays.sort(s);
 
-    }
-             return temp1-temp2;
+
+
+             return s[3]-s[0];
     }}

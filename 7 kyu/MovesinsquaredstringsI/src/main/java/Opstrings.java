@@ -46,7 +46,7 @@ class Opstrings {
     public static String horMirror (String strng) {
         // your code
     }
-    public static String oper(... operator, String s) {
+    public static String oper(String operator, String s) {
         // your code and complete ... before operator
     }
 }

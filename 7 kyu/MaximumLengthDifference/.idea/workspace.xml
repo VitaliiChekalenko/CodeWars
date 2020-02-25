@@ -2,46 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42486e28-326a-455f-9906-f4df69756e12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/NumberofPeopleintheBus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/HowdoIcomparenumbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8 kyu/easy logs/easy logs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8 kyu/easy logs/src/main/java/EasyLogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8 kyu/easy logs/src/test/java/EasyLogsExampleTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CounttheDigit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CounttheDigit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CounttheDigit/src/main/java/CountDig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CounttheDigit/src/main/java/CountDig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CounttheDigit/target/classes/CountDig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CounttheDigit/target/classes/CountDig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/AreaorPerimeter/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/AreaorPerimeter/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/src/main/java/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaximumLengthDifference.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MaxDiffLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaxDiffLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MaxDiffLengthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MaxDiffLengthTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MaxDiffLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MaxDiffLength.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberofPeopleintheBus/src/main/java/Metro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberofPeopleintheBus/src/main/java/Metro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/Area of a Square/src/main/java/Geometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Area of a Square/src/main/java/Geometry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/Area of a Square/target/classes/Geometry.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Area of a Square/target/classes/Geometry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/DuckDuckGoose.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/src/main/java/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/src/main/java/Kata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/target/classes/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/DuckDuckGoose/target/classes/Kata.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/src/main/java/Dinglemouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/src/main/java/Dinglemouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/src/test/java/ExampleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/src/test/java/ExampleTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/target/classes/Dinglemouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/FIXMEStaticelectrickery/target/classes/Dinglemouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/src/main/java/HowDoICompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/HowdoIcomparenumbers/src/main/java/HowDoICompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/Isitanumber/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Isitanumber/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/Isitanumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Isitanumber/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/Isitanumber/src/main/java/MyUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Isitanumber/src/main/java/MyUtilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/Isitanumber/target/classes/MyUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/Isitanumber/target/classes/MyUtilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/src/main/java/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/src/main/java/Cube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/src/test/java/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/src/test/java/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/target/classes/Cube.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/target/classes/Cube.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/target/test-classes/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 kyu/PlayingwithcubesI/target/test-classes/SolutionTest.class" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,9 +45,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569054174114" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MovesinsquaredstringsI" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="MaxDiffLengthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -91,18 +77,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -116,11 +90,23 @@
       <workItem from="1555515692885" duration="1447000" />
       <workItem from="1569052544380" duration="1860000" />
       <workItem from="1580995393124" duration="2171000" />
+      <workItem from="1582628833387" duration="2989000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1580998091262">
@@ -169,8 +155,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/MaxDiffLength.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="3" />
+          <line>23</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
