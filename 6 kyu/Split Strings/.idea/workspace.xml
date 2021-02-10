@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee1c272e-83d7-49f6-aca2-db6f8263332d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Split Strings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SampleTest.java" afterDir="false" />
+    <list default="true" id="ee1c272e-83d7-49f6-aca2-db6f8263332d" name="Default Changelist" comment="6">
+      <change afterPath="$PROJECT_DIR$/../Break camelCase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Break camelCase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Break camelCase/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +87,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612911738807</updated>
-      <workItem from="1612911740357" duration="1974000" />
+      <workItem from="1612911740357" duration="2100000" />
     </task>
+    <task id="LOCAL-00001" summary="6">
+      <created>1612913748130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612913748130</updated>
+    </task>
+    <task id="LOCAL-00002" summary="6">
+      <created>1612913761364</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612913761364</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="6" />
+    <option name="LAST_COMMIT_MESSAGE" value="6" />
   </component>
 </project>
