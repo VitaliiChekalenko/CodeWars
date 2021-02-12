@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="444da63a-40a5-4297-bdda-986b2986c46a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../4 kyu/Permutations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 kyu/Permutations/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 kyu/Permutations/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 kyu/Permutations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 kyu/Permutations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 kyu/Permutations/Permutations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 kyu/Permutations/src/main/java/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 kyu/Permutations/src/main/java/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 kyu/Permutations/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 kyu/Replace With Alphabet Position/Replace With Alphabet Position.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Integers Recreation One/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Integers Recreation One/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Integers Recreation One/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Integers Recreation One/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Integers Recreation One/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Integers Recreation One/Integers Recreation One.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Integers Recreation One/src/main/java/SumSquaredDivisors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Integers Recreation One/src/test/java/SumSquaredDivisorsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 kyu/Integers Recreation One/src/test/java/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Count IP Addresses/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Count IP Addresses/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Count IP Addresses/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Count IP Addresses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Count IP Addresses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Count IP Addresses/Count IP Addresses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Count IP Addresses/src/main/java/CountIPAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Count IP Addresses/src/test/java/CountIPAddressesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/DoubleSort/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/DoubleSort/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/DoubleSort/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/DoubleSort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/DoubleSort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/DoubleSort/DoubleSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/DoubleSort/src/main/java/DoubleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/DoubleSort/src/test/java/DoubleSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/PalindromeChainLength/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/PalindromeChainLength/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/PalindromeChainLength/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/PalindromeChainLength/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/PalindromeChainLength/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/PalindromeChainLength/PalindromeChainLength.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/PalindromeChainLength/src/main/java/Palindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/PalindromeChainLength/src/test/java/PalindromesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Round up to the next multiple of 5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Round up to the next multiple of 5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Round up to the next multiple of 5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Round up to the next multiple of 5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Round up to the next multiple of 5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Round up to the next multiple of 5/Round up to the next multiple of 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Round up to the next multiple of 5/src/main/java/RoundToTheNextMultipleOf5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/Round up to the next multiple of 5/src/test/java/RoundToTheNextMultipleOf5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/StatusArrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/StatusArrays/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/StatusArrays/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/StatusArrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/StatusArrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/StatusArrays/StatusArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/StatusArrays/src/main/java/Rays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 kyu/StatusArrays/src/test/java/Solve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E.S.P. Cards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dinglemouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExampleTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiplication table for number/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiplication table for number/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiplication table for number/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiplication table for number/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiplication table for number/Multiplication table for number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiplication table for number/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiplication table for number/src/test/java/SampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Smallest unused ID/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Smallest unused ID/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Smallest unused ID/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Smallest unused ID/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Smallest unused ID/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Smallest unused ID/Smallest unused ID.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Smallest unused ID/src/main/java/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Smallest unused ID/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thinkful Number Drills Blue and red marbles/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thinkful Number Drills Blue and red marbles/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thinkful Number Drills Blue and red marbles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thinkful Number Drills Blue and red marbles/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thinkful Number Drills Blue and red marbles/Thinkful Number Drills Blue and red marbles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thinkful Number Drills Blue and red marbles/src/main/java/BlueAndRedMarbles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thinkful Number Drills Blue and red marbles/src/test/java/MarbleTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1oOrnzREroTKOpPwjPdZsiyQtmQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="444da63a-40a5-4297-bdda-986b2986c46a" name="Default Changelist" comment="" />
+      <created>1613168651322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613168651322</updated>
+      <workItem from="1613168653413" duration="400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
